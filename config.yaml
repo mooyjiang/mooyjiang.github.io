@@ -21,11 +21,14 @@ defaultContentLanguageInSubdir: true
 
 menu:
     main:
+        - name: Archive
+          url: archives
+          weight: 10
         - name: About Me
-          url: about/
+          url: about
           weight: 10
         - name: Search
-          url: search/
+          url: search
           weight: 10
 
 
@@ -51,14 +54,17 @@ params:
     ShowWordCounts: true
     VisitCount: true
     ShowLastMod: true
-    ShowToc: false
+    ShowToc: true
+    tocopen: false
+    ShowAllPagesInArchive: true
+    ShowFullTextinRSS: true
 
     comment: true
 
     homeInfoParams: 
-        Title: "Hi there wave"
+        Title: "筆記、見聞"
         Content: >
-          小小藥師，愛看電影、聽音樂、打排球。來自高雄，現居台北。#center
+          小小藥師，愛看電影、聽音樂、打排球。來自高雄，現居台北。
             
           Born in Kaohsiung, Taiwan in 1994. 
             
@@ -81,6 +87,8 @@ params:
           url: "https://www.facebook.com/mooy575/"
         - name: github
           url: "https://github.com/mooyjiang"
+        - name: Rss
+          url: "index.xml"
 
     label:
       text: "MooyJiang's Blog"
