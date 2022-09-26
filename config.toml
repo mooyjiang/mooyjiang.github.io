@@ -1,0 +1,4 @@
+baseURL = "http://blog.mooy.me/"
+languageCode = "en-us"
+title = "MooyJiang's Blog"
+theme = "PaperMod"
