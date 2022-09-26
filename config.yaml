@@ -1,4 +1,133 @@
 baseURL: 'http://blog.mooy.me/'
-languageCode: en-us
+languageCode: zh-tw
 title: MooyJiang's Blog
 theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
+
+paginate: 15
+
+minify:
+    disableXML: true
+
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: true
+
+menu:
+    main:
+        - name: About Me
+          url: about/
+          weight: 10
+        - name: Search
+          url: search/
+          weight: 10
+
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
+
+params:
+    env: production
+    author: MooyJiang
+    defaultTheme: dark
+    disableThemeToggle: false
+    DateFormat: "2006-01-02"
+    ShowShareButtons: true
+    ShowReadingTime: true
+    displayFullLangName: true
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: true
+    ShowCodeCopyButtons: true
+    hideFooter: false # 隐藏页脚
+    ShowWordCounts: true
+    VisitCount: true
+    ShowLastMod: true
+    ShowToc: false
+
+    comment: true
+
+    homeInfoParams: 
+        Title: "Hi there wave"
+        Content: >
+          小小藥師，愛看電影、聽音樂、打排球。來自高雄，現居台北。#center
+            
+          Born in Kaohsiung, Taiwan in 1994. 
+            
+          Now a pharmacist working in Taipei. 
+            
+          Chinese, English, Taiwanese. 
+            
+          Love music, photopraphy, technology, and volleyball. 
+            
+          Enjoyer of all interesting and risky things.
+
+    socialIcons:
+        - name: telegram
+          url: "https://t.me/s/mooyjiang"
+        - name: instagram
+          url: "http://instagram.com/mooyjiang/"
+        - name: twitter
+          url: "https://twitter.com/mooyjiang"
+        - name: facebook
+          url: "https://www.facebook.com/mooy575/"
+        - name: github
+          url: "https://github.com/mooyjiang"
+
+    label:
+      text: "MooyJiang's Blog"
+      icon: "/images/icon.png"
+      iconHeight: 35
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true # HUGO 默认转义 Markdown 文件中的 HTML 代码，如需开启的话
+    highlight:
+        # anchorLineNos: true
+        codeFences: true  
+        guessSyntax: true
+        lineNos: true
+        # noClasses: false
+        # style: monokai
+        style: darcula
+
+        # codeFences：代码围栏功能，这个功能一般都要设为 true 的，不然很难看，就是干巴巴的-代码文字，没有颜色。
+        # guessSyntax：猜测语法，这个功能建议设置为 true, 如果你没有设置要显示的语言则会自动匹配。
+        # hl_Lines：高亮的行号，一般这个不设置，因为每个代码块我们可能希望让高亮的地方不一样。
+        # lineNoStart：行号从编号几开始，一般从 1 开始。
+        # lineNos：是否显示行号，我比较喜欢显示，所以我设置的为 true.
+        # lineNumbersInTable：使用表来格式化行号和代码,而不是 标签。这个属性一般设置为 true.
+        # noClasses：使用 class 标签，而不是内嵌的内联样式
+
+privacy:
+    vimeo:
+        disabled: false
+        simple: true
+
+    twitter:
+        disabled: false
+        enableDNT: true
+        simple: true
+
+    instagram:
+        disabled: false
+        simple: true
+
+    youtube:
+        disabled: false
+        privacyEnhanced: true
+
+services:
+    instagram:
+        disableInlineCSS: true
+    twitter:
+        disableInlineCSS: true
