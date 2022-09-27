@@ -1,6 +1,6 @@
 baseURL: 'http://blog.mooy.me/'
-languageCode: zh-tw
 title: MooyJiang's Blog
+languageCode: zh-tw # 預設語系配置
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -11,131 +11,151 @@ buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
 
-paginate: 15
+paginate: 15 # 每頁顯示文章數
 
 minify:
-    disableXML: true
+  disableXML: true
+  minifyOutput: true
 
-defaultContentLanguage: en
+defaultContentLanguage: zh-tw
 defaultContentLanguageInSubdir: true
 
 menu:
-    main:
-        - name: Archive
-          url: archives
-          weight: 10
-        - name: About Me
-          url: about
-          weight: 10
-        - name: Search
-          url: search
-          weight: 10
+  main:
+    - name: Archive
+      url: archives
+      weight: 10
+    - name: About Me
+      url: about
+      weight: 10
+    - name: Search
+      url: search
+      weight: 10
 
 
 outputs:
-    home:
-        - HTML
-        - RSS
-        - JSON
+  home:
+    - HTML
+    - RSS
+    - JSON
 
 params:
-    env: production
-    author: MooyJiang
-    defaultTheme: dark
-    disableThemeToggle: false
-    DateFormat: "2006-01-02"
-    ShowShareButtons: true
-    ShowReadingTime: true
-    displayFullLangName: true
-    ShowPostNavLinks: true
-    ShowBreadCrumbs: true
-    ShowCodeCopyButtons: true
-    hideFooter: false # 隐藏页脚
-    ShowWordCounts: true
-    VisitCount: true
-    ShowLastMod: true
-    ShowToc: true
-    tocopen: false
-    ShowAllPagesInArchive: true
-    ShowFullTextinRSS: true
+  env: production
+  description: "This is MooyJiang's Blog"
+  keywords: [Blog, Portfolio, PaperMod]
+  author: MooyJiang
+  defaultTheme: dark
+  disableThemeToggle: false
 
-    comment: true
+  DateFormat: "2006-01-02"
+  ShowShareButtons: true
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+  ShowCodeCopyButtons: true
+  ShowBreadCrumbs: true
+  ShowAllPagesInArchive: true
+  ShowFullTextinRSS: true
+  ShowWordCounts: true
+  ShowLastMod: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  displayFullLangName: true
+  comment: true
+  hidemeta: false
+  hideSummary: false
+  hideFooter: false # 隱藏頁腳
+  VisitCount: true
+  ShowToc: true
+  tocopen: false
 
-    homeInfoParams: 
-        Title: "筆記、見聞"
-        Content: >
-          小小藥師，愛看電影、聽音樂、打排球。來自高雄，現居台北。
-            
-          Born in Kaohsiung, Taiwan in 1994. 
-            
-          Now a pharmacist working in Taipei. 
-            
-          Chinese, English, Taiwanese. 
-            
-          Love music, photopraphy, technology, and volleyball. 
-            
-          Enjoyer of all interesting and risky things.
+  label:
+    text: "MooyJiang's Blog"
+    icon: "/images/icon.png"
+    iconHeight: 35
 
-    socialIcons:
-        - name: telegram
-          url: "https://t.me/s/mooyjiang"
-        - name: instagram
-          url: "http://instagram.com/mooyjiang/"
-        - name: twitter
-          url: "https://twitter.com/mooyjiang"
-        - name: facebook
-          url: "https://www.facebook.com/mooy575/"
-        - name: github
-          url: "https://github.com/mooyjiang"
-        - name: Rss
-          url: "index.xml"
 
-    label:
-      text: "MooyJiang's Blog"
-      icon: "/images/icon.png"
-      iconHeight: 35
+  homeInfoParams: 
+    Title: "筆記、見聞"
+    Content: >
+      小小藥師，愛看電影、聽音樂、打排球。來自高雄，現居台北。
+
+      Born in Kaohsiung, Taiwan in 1994. 
+
+      Now a pharmacist working in Taipei. 
+
+      Chinese, English, Taiwanese. 
+
+      Love music, photopraphy, technology, and volleyball. 
+
+      Enjoyer of all interesting and risky things.
+
+  socialIcons:
+    - name: telegram
+      url: "https://t.me/s/mooyjiang"
+    - name: instagram
+      url: "http://instagram.com/mooyjiang/"
+    - name: twitter
+      url: "https://twitter.com/mooyjiang"
+    - name: facebook
+      url: "https://www.facebook.com/mooy575/"
+    - name: github
+      url: "https://github.com/mooyjiang"
+    - name: Rss
+      url: "index.xml"
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
 
 markup:
-    goldmark:
-        renderer:
-            unsafe: true # HUGO 默认转义 Markdown 文件中的 HTML 代码，如需开启的话
-    highlight:
-        # anchorLineNos: true
-        codeFences: true  
-        guessSyntax: true
-        lineNos: true
-        # noClasses: false
-        # style: monokai
-        style: darcula
+  goldmark:
+    renderer:
+      unsafe: true # HUGO 默认转义 Markdown 文件中的 HTML 代码，如需开启的话
+  highlight: 
+    # anchorLineNos: true
+    codeFences: true  
+    guessSyntax: true
+    lineNos: true
+    # noClasses: false
+    # style: monokai
+    style: darcula
 
-        # codeFences：代码围栏功能，这个功能一般都要设为 true 的，不然很难看，就是干巴巴的-代码文字，没有颜色。
-        # guessSyntax：猜测语法，这个功能建议设置为 true, 如果你没有设置要显示的语言则会自动匹配。
-        # hl_Lines：高亮的行号，一般这个不设置，因为每个代码块我们可能希望让高亮的地方不一样。
-        # lineNoStart：行号从编号几开始，一般从 1 开始。
-        # lineNos：是否显示行号，我比较喜欢显示，所以我设置的为 true.
-        # lineNumbersInTable：使用表来格式化行号和代码,而不是 标签。这个属性一般设置为 true.
-        # noClasses：使用 class 标签，而不是内嵌的内联样式
+      # codeFences：代码围栏功能，这个功能一般都要设为 true 的，不然很难看，就是干巴巴的-代码文字，没有颜色。
+      # guessSyntax：猜测语法，这个功能建议设置为 true, 如果你没有设置要显示的语言则会自动匹配。
+      # hl_Lines：高亮的行号，一般这个不设置，因为每个代码块我们可能希望让高亮的地方不一样。
+      # lineNoStart：行号从编号几开始，一般从 1 开始。
+      # lineNos：是否显示行号，我比较喜欢显示，所以我设置的为 true.
+      # lineNumbersInTable：使用表来格式化行号和代码,而不是 标签。这个属性一般设置为 true.
+      # noClasses：使用 class 标签，而不是内嵌的内联样式
 
 privacy:
-    vimeo:
-        disabled: false
-        simple: true
+  vimeo:
+    disabled: false
+    simple: true
 
-    twitter:
-        disabled: false
-        enableDNT: true
-        simple: true
+  twitter:
+    disabled: false
+    enableDNT: true
+    simple: true
 
-    instagram:
-        disabled: false
-        simple: true
+  instagram:
+    disabled: false
+    simple: true
 
-    youtube:
-        disabled: false
-        privacyEnhanced: true
+  youtube:
+    disabled: false
+    privacyEnhanced: true
 
 services:
-    instagram:
-        disableInlineCSS: true
-    twitter:
-        disableInlineCSS: true
+  instagram:
+    disableInlineCSS: true
+  twitter:
+    disableInlineCSS: true
