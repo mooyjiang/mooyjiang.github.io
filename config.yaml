@@ -13,12 +13,31 @@ pygmentsUseClasses: true
 
 paginate: 15 # 每頁顯示文章數
 
+defaultContentLanguage: zh-tw
+defaultContentLanguageInSubdir: true
+
+enableGitInfo: false
+
+frontmatter:
+  date:
+    - date
+    - publishDate
+    - lastmod
+  expiryDate:
+    - expiryDate
+  lastmod:
+    - :git
+    - :fileModTime
+    - lastmod
+    - date
+    - publishDate
+  publishDate:
+    - publishDate
+    - date
+
 minify:
   disableXML: true
   minifyOutput: true
-
-defaultContentLanguage: zh-tw
-defaultContentLanguageInSubdir: true
 
 menu:
   main:
@@ -35,8 +54,7 @@ menu:
       url: search
       weight: 20
 
-
-outputs:
+outputs: # For search page
   home:
     - HTML
     - RSS
@@ -52,23 +70,25 @@ params:
 
   DateFormat: "2006-01-02"
   ShowShareButtons: true
-  ShareButtons: ["twitter","facebook", "telegram"]
+  ShareButtons: ["telegram", "twitter","facebook"]
   ShowReadingTime: true
   ShowPostNavLinks: true
   ShowCodeCopyButtons: true
   ShowBreadCrumbs: true
   ShowAllPagesInArchive: true
   ShowFullTextinRSS: true
-  ShowWordCounts: true
+  ShowWordCount: true
   ShowLastMod: true
+  ShowRssButtonInSectionTermList: true
   disableSpecial1stPost: false
   disableScrollToTop: false
   displayFullLangName: true
-  comment: true
+  comments: true
   hidemeta: false
   hideSummary: false
   hideFooter: false # 隱藏頁腳
   VisitCount: true
+  UseHugoToc: true
   ShowToc: true
   tocopen: false
 
@@ -77,6 +97,30 @@ params:
     icon: "/images/icon.png"
     iconHeight: 35
 
+  # Display thumbnail image of each post on index pages (false: disabled, true: enabled)
+  # 文章缩略图功能
+  thumbnailImage: true
+  # 缩略图位置，我觉得放在上面好看，如果用的小图片作缩略图
+  # 可以放在（left或者right），设置此项会取代配置文件中默认在下边的设置
+  thumbnailImagePosition: top
+  # 这个下边默认就好了，暂时不清楚有什么影响
+  autoThumbnailImage: yes
+  metaAlignment: left
+
+  # profile-mode
+  profileMode:
+    enabled: false
+    title: "<Title>" # optional default will be site title
+    subtitle: "This is subtitle"
+    # imageUrl: "<image link>" # optional
+    # imageTitle: "<title of image as alt>" # optional
+    # imageWidth: 120 # custom size
+    # imageHeight: 120 # custom size
+    buttons:
+      - name: Archive
+        url: "/archive"
+      - name: About
+        url: "/about"
 
   homeInfoParams: 
     Title: "筆記、見聞"
@@ -113,6 +157,11 @@ params:
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
 
+  cover:
+    linkFullImages: false
+    hidden: false # hide everywhere but not in structured data
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: false # hide on single page
 
 markup:
   goldmark:
