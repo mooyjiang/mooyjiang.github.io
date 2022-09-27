@@ -22,6 +22,9 @@ defaultContentLanguageInSubdir: true
 
 menu:
   main:
+    - name: Home
+      url: /
+      weight: 40
     - name: Archive
       url: archives
       weight: 20
