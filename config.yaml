@@ -24,10 +24,10 @@ menu:
   main:
     - name: Archive
       url: archives
-      weight: 10
+      weight: 20
     - name: About Me
       url: about
-      weight: 10
+      weight: 30
     - name: Search
       url: search
       weight: 10
