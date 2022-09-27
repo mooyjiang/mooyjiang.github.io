@@ -24,16 +24,16 @@ menu:
   main:
     - name: Home
       url: /
-      weight: 40
+      weight: 10
     - name: Archive
       url: archives
-      weight: 20
+      weight: 30
     - name: About Me
       url: about
-      weight: 30
+      weight: 40
     - name: Search
       url: search
-      weight: 10
+      weight: 20
 
 
 outputs:
