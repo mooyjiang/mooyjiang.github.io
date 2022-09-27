@@ -80,17 +80,12 @@ params:
   homeInfoParams: 
     Title: "筆記、見聞"
     Content: >
-      小小藥師，愛看電影、聽音樂、打排球。來自高雄，現居台北。
-  
-      Born in Kaohsiung, Taiwan in 1994. 
-  
-      Now a pharmacist working in Taipei. 
-  
-      Chinese, English, Taiwanese. 
-  
-      Love music, photopraphy, technology, and volleyball. 
-  
-      Enjoyer of all interesting and risky things.
+      小小藥師，愛看電影、聽音樂、打排球。來自高雄，現居台北。<br>
+      Born in Kaohsiung, Taiwan in 1994.<br>
+      Now a pharmacist working in Taipei.<br>
+      Chinese, English, Taiwanese.<br>
+      Love music, photopraphy, technology, and volleyball.<br>
+      Enjoyer of all interesting and risky things.<br>
 
   socialIcons:
     - name: telegram
