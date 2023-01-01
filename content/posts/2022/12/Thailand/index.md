@@ -1,7 +1,7 @@
 ---
 title: "Thailand"
 date: 2022-12-28T22:15:51+08:00
-draft: true
+draft: false
 
 # summary: "" # 首頁顯示的文字總結段落
 
