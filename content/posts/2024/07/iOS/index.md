@@ -1,9 +1,9 @@
 ---
-title: “iOS 上寫作”
+title: "iOS 上寫作"
 date: 2024-07-11
 draft: false
 
-# summary: “” # 首頁顯示的文字總結段落
+# summary: "" # 首頁顯示的文字總結段落
 
 # categories: 
 # - 行山
@@ -25,9 +25,9 @@ ShowReadingTime: true
 ShowLastMod: true
 
 cover:
-  image: “” # 封面圖片路径 (ex:clear-301-redirection-cache-chrome/cover.jpg)
-  caption: “” # 封面圖片底部描述
-  alt: “”
+  image: "" # 封面圖片路径 (ex:clear-301-redirection-cache-chrome/cover.jpg)
+  caption: "" # 封面圖片底部描述
+  alt: ""
   relative: false
 ---
 
