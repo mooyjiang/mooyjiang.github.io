@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on MooyJiang&#39;s Blog</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on MooyJiang&#39;s Blog</description>
+    <generator>Hugo -- 0.128.2</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Wed, 10 Jul 2024 22:22:14 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thailand</title>
+      <link>http://localhost:1313/tags/thailand/</link>
+      <pubDate>Wed, 28 Dec 2022 22:15:51 +0800</pubDate>
+      <guid>http://localhost:1313/tags/thailand/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Travel</title>
+      <link>http://localhost:1313/tags/travel/</link>
+      <pubDate>Wed, 28 Dec 2022 22:15:51 +0800</pubDate>
+      <guid>http://localhost:1313/tags/travel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pharmacy</title>
+      <link>http://localhost:1313/tags/pharmacy/</link>
+      <pubDate>Sun, 02 Oct 2022 18:37:19 +0800</pubDate>
+      <guid>http://localhost:1313/tags/pharmacy/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
