@@ -70,7 +70,7 @@ params:
 
   DateFormat: "2006-01-02"
   ShowShareButtons: true
-  ShareButtons: ["telegram", "twitter","facebook"]
+  ShareButtons: ["telegram","twitter","facebook"]
   ShowReadingTime: true
   ShowPostNavLinks: true
   ShowCodeCopyButtons: true
