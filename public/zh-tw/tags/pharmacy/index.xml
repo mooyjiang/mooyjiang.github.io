@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Pharmacy on MooyJiang&#39;s Blog</title>
+    <link>http://blog.mooy.me/zh-tw/tags/pharmacy/</link>
+    <description>Recent content in Pharmacy on MooyJiang&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 02 Oct 2022 18:37:19 +0800</lastBuildDate><atom:link href="http://blog.mooy.me/zh-tw/tags/pharmacy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>雲端藥歷查詢方法</title>
+      <link>http://blog.mooy.me/zh-tw/posts/2022/10/cloud-medicine/</link>
+      <pubDate>Sun, 02 Oct 2022 18:37:19 +0800</pubDate>
+      
+      <guid>http://blog.mooy.me/zh-tw/posts/2022/10/cloud-medicine/</guid>
+      <description>有的同仁仍不熟悉如何使用健保雲端藥歷，此篇給同仁一點參考。 步驟 先確定「雲端安全模組主控台」有打開。 打開桌面上的健保局VPN連結。 請使用 Edge 或是</description>
+      <content:encoded><![CDATA[<p>有的同仁仍不熟悉如何使用健保雲端藥歷，此篇給同仁一點參考。</p>
+<hr>
+<h2 id="步驟">步驟</h2>
+<ol>
+<li>
+<p>先確定「雲端安全模組主控台」有打開。
+<img loading="lazy" src="csFSIM_1.jpg" alt=""  />
+
+<img loading="lazy" src="csFSIM_2.jpg" alt=""  />
+</p>
+</li>
+<li>
+<p>打開桌面上的<a href="https://medvpn.nhi.gov.tw/iwpe0000/IWPE0100S01.aspx">健保局VPN</a>連結。</p>
+</li>
+</ol>
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #31708f; background-color: #d9edf7; border-color: #bce8f1;">
+請使用 Edge 或是 Chrome 開啟，使用 IE 常有莫名其妙的錯誤產生。
+</div>
+<ol start="3">
+<li>
+<p>使用醫事人員卡登入，在網頁右半部輸入卡片 PIN 碼後，選擇「健保讀卡機 / 雲端控制軟體」，點擊登入。
+<img loading="lazy" src="login.jpg" alt=""  />
+</p>
+</li>
+<li>
+<p>左半部功能選單可以選擇：</p>
+<ul>
+<li>健保雲端藥歷系統查詢結果。</li>
+<li>因應天災及緊急醫療查詢作業。（需要該醫事人員卡有申請此功能）
+<img loading="lazy" src="menu.jpg" alt=""  />
+</li>
+</ul>
+</li>
+<li>
+<p>列印所需畫面即可。</p>
+</li>
+</ol>
+<hr>
+<h2 id="疑難雜症">疑難雜症</h2>
+<ul>
+<li>
+<p>安全模組尚未與 IDC 認證：</p>
+<ol>
+<li>打開 HIS 系統 -&gt; [SYS] 共用系統 -&gt; IC 卡共用程式。</li>
+<li>正常會跳出「安全模組認證中」，待其跑完就可以了。
+<img loading="lazy" src="verifying.jpg" alt=""  />
+</li>
+<li>或者手動執行「13.SAM 與 DC 認證」，亦有相同效果。</li>
+</ol>
+</li>
+<li>
+<p>卡片權限不足：</p>
+<ol>
+<li>重新拔插醫事人員卡。</li>
+<li>重新驗證 PIN 碼。</li>
+</ol>
+</li>
+</ul>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>
