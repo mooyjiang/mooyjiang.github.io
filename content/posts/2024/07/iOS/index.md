@@ -1,4 +1,4 @@
-—
+---
 title: “iOS 上寫作”
 date: 2024-07-11
 draft: false
@@ -29,6 +29,6 @@ cover:
   caption: “” # 封面圖片底部描述
   alt: “”
   relative: false
-—
+---
 
 測試能否在 iOS 上以 [Working Copy](https://apps.apple.com/app/id896694807) 來寫作。
