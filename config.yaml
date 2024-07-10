@@ -14,7 +14,7 @@ pygmentsUseClasses: true
 paginate: 15 # 每頁顯示文章數
 
 defaultContentLanguage: zh-tw
-defaultContentLanguageInSubdir: true
+defaultContentLanguageInSubdir: false
 
 enableGitInfo: false
 
