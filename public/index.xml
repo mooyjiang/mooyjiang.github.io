@@ -6,15 +6,25 @@
     <description>Recent content on MooyJiang&#39;s Blog</description>
     <generator>Hugo -- 0.128.2</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Wed, 10 Jul 2024 23:52:48 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2024 06:14:44 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>iOS 上寫作</title>
+      <link>http://localhost:1313/posts/2024/07/ios/</link>
+      <pubDate>Thu, 11 Jul 2024 00:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/2024/07/ios/</guid>
+      <description>測試能否在 iOS 上以 Working Copy 來寫作。</description>
+      <content:encoded><![CDATA[<p>測試能否在 iOS 上以 <a href="https://apps.apple.com/app/id896694807">Working Copy</a> 來寫作。</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Cat</title>
       <link>http://localhost:1313/posts/2024/07/cat/</link>
       <pubDate>Wed, 10 Jul 2024 23:43:50 +0800</pubDate>
       <guid>http://localhost:1313/posts/2024/07/cat/</guid>
-      <description>即將認領貓貓。</description>
-      <content:encoded><![CDATA[<p>即將認領貓貓。</p>
+      <description>即將認領貓貓。 07/10 與愛媽接觸。</description>
+      <content:encoded><![CDATA[<p>即將認領貓貓。<br>
+07/10 與愛媽接觸。</p>
 ]]></content:encoded>
     </item>
     <item>
