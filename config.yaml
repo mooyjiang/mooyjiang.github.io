@@ -96,7 +96,10 @@ params:
     text: "MooyJiang's Blog"
     icon: "/images/icon.png"
     iconHeight: 35
-
+  assets:
+    disableHLJS: true
+    favicon: "/assets/favicon.ico"
+    
   # Display thumbnail image of each post on index pages (false: disabled, true: enabled)
   # 文章缩略图功能
   thumbnailImage: true
