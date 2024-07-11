@@ -103,7 +103,7 @@ params:
     favicon16x16: "/assets/favicon-16x16.png"
     favicon32x32: "/assets/favicon-32x32.png"
     apple_touch_icon: "/assets/apple-touch-icon.png"
-    safari_pinned_tab: "/assets/safari-pinned-tab.svg"
+    safari_pinned_tab: "/assets/safari-pinned-tab.png"
 
   # Display thumbnail image of each post on index pages (false: disabled, true: enabled)
   # 文章缩略图功能
