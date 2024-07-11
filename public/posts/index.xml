@@ -6,16 +6,15 @@
     <description>Recent content in Posts on MooyJiang&#39;s Blog</description>
     <generator>Hugo -- 0.128.2</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 11 Jul 2024 06:49:54 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2024 07:08:09 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vancomycin Resistant Enterococcus</title>
       <link>http://localhost:1313/posts/2024/07/vre/</link>
       <pubDate>Thu, 11 Jul 2024 06:49:21 +0800</pubDate>
       <guid>http://localhost:1313/posts/2024/07/vre/</guid>
-      <description>Vancomycin Resistant Enterococcus What Are Enterococcus？ Gram Positive 1 2 E. faecalis，糞腸球菌，佔 80-90%。 E. faecium，屎腸球菌，佔 5-16%。 E. faecium 近年</description>
-      <content:encoded><![CDATA[<h1 id="vancomycin-resistant-enterococcus">Vancomycin Resistant Enterococcus</h1>
-<h2 id="what-are-enterococcus">What Are Enterococcus？</h2>
+      <description>What Are Enterococcus？ Gram Positive 1 2 E. faecalis，糞腸球菌，佔 80-90%。 E. faecium，屎腸球菌，佔 5-16%。 E. faecium 近年佔 VRE 呈</description>
+      <content:encoded><![CDATA[<h2 id="what-are-enterococcus">What Are Enterococcus？</h2>
 <ul>
 <li>Gram Positive</li>
 </ul>
@@ -43,13 +42,13 @@
 <li>若 Enterococcus 又對 Teicoplanin 與 Vancomycin 產生抗藥性，則稱之為 VRE。</li>
 <li>可選藥物為 Linezolid、Daptomycin、Tigecycline。</li>
 </ul>
-<p>:::warning
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
 Tigecycline 在血中濃度不足，通常用以治療 IAI (Intra-Abdominal Infection)
-:::</p>
-<p>:::info
-Daptomycin 難以用機器做 MIC，因需要特定 Ca^+^ 濃度才有效果（40 ug/ml）。<br>
-若是手工測量 MIC 則誤差大。<br>
-:::</p>
+</div>
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #31708f; background-color: #d9edf7; border-color: #bce8f1;">
+Daptomycin 難以用機器做 MIC，因需要特定 Ca^+^ 濃度才有效果（40 ug/ml）。  
+若是手工測量 MIC 則誤差大。  
+</div>
 <hr>
 <h2 id="daptomycin">Daptomycin</h2>
 <ul>
@@ -61,9 +60,9 @@ Daptomycin 難以用機器做 MIC，因需要特定 Ca^+^ 濃度才有效果（4
 <li>監測橫紋肌溶解症與肌肉病變，主要表現於近端大片肌痛、痠麻等症狀。<br>
 考慮可暫時停用 Statin 類。</li>
 </ul>
-<p>:::danger
-不可用於治療 Pneumonia，因其殺菌效果會被肺部表面活性劑拮抗。<br>
-:::</p>
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #a94442; background-color: #f2dede; border-color: #ebccd1;">
+不可用於治療 Pneumonia，因其殺菌效果會被肺部表面活性劑拮抗。 
+</div>
 <ul>
 <li>可能引起罕見 Eosinophilic pneumonia（嗜伊紅性球充滿肺部）。</li>
 <li>Conbinations？
@@ -86,10 +85,10 @@ Daptomycin 難以用機器做 MIC，因需要特定 Ca^+^ 濃度才有效果（4
 </span></span><span class="line"><span class="cl">Imipenem  
 </span></span></code></pre></td></tr></table>
 </div>
-</div><p>:::warning
-Daptomycin in children？<br>
-由於 eGFR 比成人高，可能致治療失敗。<br>
-:::</p>
+</div><div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+Daptomycin in children？  
+由於 eGFR 比成人高，可能致治療失敗。  
+</div>
 <ul>
 <li>若洗腎則於洗完後給藥，對於 TIW 洗腎之 VRE 患者，於隔 3 天之該次劑量需增加 33-50%（須監測）。
 <ol>
@@ -107,28 +106,28 @@ Daptomycin in children？<br>
 <li>軟組織穿透性高。</li>
 <li>Usual dosing：600 mg Q12H。</li>
 </ul>
-<p>:::warning
-重症要考慮 ARC (Augmented Renal Clearance)，腎功能亢進 CrCL &gt; 130。<br>
-Linezolid 可考慮 450 mg Q8H（文獻建立在 MIC=1 情況下）。<br>
-:::</p>
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+重症要考慮 ARC (Augmented Renal Clearance)，腎功能亢進 CrCL > 130。  
+Linezolid 可考慮 450 mg Q8H（文獻建立在 MIC=1 情況下）。  
+</div>
 <ul>
 <li>較好的給藥方式：Loading dose + Continuous infusion (1200 mg/24 hr)。</li>
 <li>用超過兩周有機會 Bone marrow suppression。</li>
 <li>用於老年患者、Severe renal impairment，易發生 Thrombocytopenia，與 trough 濃度有關，若發生可考慮 TDM 或停用。</li>
 <li>Linezolid 屬非選擇性可逆 MAO inhibitor，併用 SSRI/SNRI/Opiate 時須監測 Serotonin Syndrome。</li>
 </ul>
-<p>:::info
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #31708f; background-color: #d9edf7; border-color: #bce8f1;">
 Serotonin Syndrome：流汗、躁動、不配合、myoclonus、發抖、發燒、抖動、反射增加、腹瀉、或是心智狀態改變等。
-:::</p>
-<p>:::warning
-考慮病人是否使用 Methadone、Escitazolam、Citalopram 等。<br>
-:::</p>
+</div>
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+考慮病人是否使用 Methadone、Escitazolam、Citalopram 等。
+</div>
 <ul>
 <li>連續使用有視神經病變風險，停藥可改善。</li>
 </ul>
-<p>:::info
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #31708f; background-color: #d9edf7; border-color: #bce8f1;">
 影響視力藥物：Ethambutol、Isoniazid、Amiodarone。
-:::</p>
+</div>
 <hr>
 <h2 id="tigecycline">Tigecycline</h2>
 <ul>
@@ -136,9 +135,9 @@ Serotonin Syndrome：流汗、躁動、不配合、myoclonus、發抖、發燒�
 <li>結構與 Tetracycline 相似，機轉與 Tetracycline 相同。</li>
 <li>抑制肽鏈延長與蛋白質合成，屬抑菌型。</li>
 </ul>
-<p>:::danger
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #a94442; background-color: #f2dede; border-color: #ebccd1;">
 Black box warning：與其他適當治療相比，使用替加環素治療的死亡風險增加。故通常留給後線且不單用。
-:::</p>
+</div>
 <ul>
 <li>組織穿透力強，但血中濃度很差（老虎怕水，無法治療 bacteremia、UTI），也不能過 BBB。</li>
 <li>打不了 1B3P。</li>
@@ -170,7 +169,7 @@ Black box warning：與其他適當治療相比，使用替加環素治療的死
       <pubDate>Thu, 11 Jul 2024 06:47:17 +0800</pubDate>
       <guid>http://localhost:1313/posts/2024/07/oralantiviral/</guid>
       <description>口服抗病毒藥物</description>
-      <content:encoded><![CDATA[<h1 id="口服抗病毒藥物">口服抗病毒藥物</h1>
+      <content:encoded><![CDATA[<h2 id="口服抗病毒藥物">口服抗病毒藥物</h2>
 <p><img loading="lazy" src="https://i.imgur.com/R5mPPQh.jpg" alt=""  />
 </p>
 <p><img loading="lazy" src="https://i.imgur.com/yRXYxme.jpg" alt=""  />

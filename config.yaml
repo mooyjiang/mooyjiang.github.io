@@ -97,13 +97,13 @@ params:
     icon: "/images/icon.png"
     iconHeight: 35
 
-   # assets:
+  assets:
    # disableHLJS: true
-    # favicon: "/assets/favicon.ico"
-    # favicon16x16: "/assets/favicon-16x16.png"
-    # favicon32x32: "/assets/favicon-32x32.png"
-    # apple_touch_icon: "/assets/apple-touch-icon.png"
-    # safari_pinned_tab: "/assets/safari-pinned-tab.svg"
+    favicon: "/assets/favicon.ico"
+    favicon16x16: "/assets/favicon-16x16.png"
+    favicon32x32: "/assets/favicon-32x32.png"
+    apple_touch_icon: "/assets/apple-touch-icon.png"
+    safari_pinned_tab: "/assets/safari-pinned-tab.svg"
 
   # Display thumbnail image of each post on index pages (false: disabled, true: enabled)
   # 文章缩略图功能
