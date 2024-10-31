@@ -4,16 +4,173 @@
     <title>Posts on MooyJiang&#39;s Blog</title>
     <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on MooyJiang&#39;s Blog</description>
-    <generator>Hugo -- 0.128.2</generator>
+    <generator>Hugo -- 0.136.5</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 11 Jul 2024 07:08:09 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 29 Oct 2024 17:44:32 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2024-10 14日海陸教育召集</title>
+      <link>http://localhost:1313/posts/2024/10/education-recall/</link>
+      <pubDate>Tue, 29 Oct 2024 17:35:17 +0800</pubDate>
+      <guid>http://localhost:1313/posts/2024/10/education-recall/</guid>
+      <description>&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
+&lt;p&gt;上一次收到教召通知，是在 2020 年初時，但當時適逢 COVID-19 肆虐，故沒多久就收到取消的通知，且由於當時在專責醫院服務，經歷一連串的降載和大大小小的防疫業務，我竟也沒再收到任何召集通知。&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<h2 id="前言">前言</h2>
+<p>上一次收到教召通知，是在 2020 年初時，但當時適逢 COVID-19 肆虐，故沒多久就收到取消的通知，且由於當時在專責醫院服務，經歷一連串的降載和大大小小的防疫業務，我竟也沒再收到任何召集通知。</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Vancomycin Resistant Enterococcus</title>
       <link>http://localhost:1313/posts/2024/07/vre/</link>
       <pubDate>Thu, 11 Jul 2024 06:49:21 +0800</pubDate>
       <guid>http://localhost:1313/posts/2024/07/vre/</guid>
-      <description>What Are Enterococcus？ Gram Positive 1 2 E. faecalis，糞腸球菌，佔 80-90%。 E. faecium，屎腸球菌，佔 5-16%。 E. faecium 近年佔 VRE 呈</description>
+      <description>&lt;h2 id=&#34;what-are-enterococcus&#34;&gt;What Are Enterococcus？&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Gram Positive&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;E. faecalis，糞腸球菌，佔 80-90%。  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;E. faecium，屎腸球菌，佔 5-16%。
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;E. faecium 近年佔 VRE 呈上升趨勢。&lt;/li&gt;
+&lt;li&gt;首選以 Ampicillin 治療，若有 PCN 抗藥性，則以 Teicoplanin、Vancomycin 治療。
+&lt;ul&gt;
+&lt;li&gt;Vancomycin：Glycopeptide，較少用，因有耳腎毒性，且輸注要 &amp;gt;1 hr，否則易有 Red Man Syndrome。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;multi-drug-resistance&#34;&gt;Multi drug resistance？&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;若 Enterococcus 又對 Teicoplanin 與 Vancomycin 產生抗藥性，則稱之為 VRE。&lt;/li&gt;
+&lt;li&gt;可選藥物為 Linezolid、Daptomycin、Tigecycline。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div style=&#34;padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;&#34;&gt;
+Tigecycline 在血中濃度不足，通常用以治療 IAI (Intra-Abdominal Infection)
+&lt;/div&gt;
+&lt;div style=&#34;padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #31708f; background-color: #d9edf7; border-color: #bce8f1;&#34;&gt;
+Daptomycin 難以用機器做 MIC，因需要特定 Ca^+^ 濃度才有效果（40 ug/ml）。  
+若是手工測量 MIC 則誤差大。  
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;daptomycin&#34;&gt;Daptomycin&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;商品名 Cubucin。&lt;/li&gt;
+&lt;li&gt;Lipopeptide，結合到細胞膜導致穿孔，繼而引發凋亡，殺菌型抗生素。&lt;/li&gt;
+&lt;li&gt;Concentration dependent.&lt;/li&gt;
+&lt;li&gt;VRE Usual dosing：8-12 mg/kg QD（High dose）。&lt;/li&gt;
+&lt;li&gt;High dose 須監測 Creatine phosphokinase，CPK &amp;gt; 1000 時考慮 DC。&lt;/li&gt;
+&lt;li&gt;監測橫紋肌溶解症與肌肉病變，主要表現於近端大片肌痛、痠麻等症狀。&lt;br&gt;
+考慮可暫時停用 Statin 類。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div style=&#34;padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #a94442; background-color: #f2dede; border-color: #ebccd1;&#34;&gt;
+不可用於治療 Pneumonia，因其殺菌效果會被肺部表面活性劑拮抗。 
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;可能引起罕見 Eosinophilic pneumonia（嗜伊紅性球充滿肺部）。&lt;/li&gt;
+&lt;li&gt;Conbinations？
+&lt;ol&gt;
+&lt;li&gt;VRE、Complicated、或是任何 High risk 都可使用（Indocarditis）。&lt;/li&gt;
+&lt;li&gt;可考慮 Daptomycin 併用 Beta-lactam 類，使細胞壁變薄，使治療所需之 fAUC/MIC 降低。&lt;/li&gt;
+&lt;li&gt;若對 Beta-lactam 類過敏，可併用 Fosfomycin (if susceptible)。&lt;/li&gt;
+&lt;li&gt;不是所有的 Beta-lactam 都可以（第五代 Cephalosporins）。&lt;br&gt;
+（第五代 Cephalosporins：Ceftaroline 主要用於社區型感染，打不了 Pseudomonas 與 GNB。）&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Ceftaroline  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Imipenem  
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;div style=&#34;padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;&#34;&gt;
+Daptomycin in children？  
+由於 eGFR 比成人高，可能致治療失敗。  
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;若洗腎則於洗完後給藥，對於 TIW 洗腎之 VRE 患者，於隔 3 天之該次劑量需增加 33-50%（須監測）。
+&lt;ol&gt;
+&lt;li&gt;劑量可給到 6、6、9 mg/kg 甚至 8、8、8 mg/kg。&lt;/li&gt;
+&lt;li&gt;若是在社區洗腎中心，要考慮提早給藥之狀況（節省時間在洗腎最後一小時同時給藥）。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;linezolid&#34;&gt;Linezolid&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;商品名 Zyvox。&lt;/li&gt;
+&lt;li&gt;Oxazolidinone 類，阻止細菌 Translation，對於 Enterococci 與 Staphylococci 屬抑菌型；對於 Straptococci 屬殺菌型。&lt;/li&gt;
+&lt;li&gt;Oral 生可用率高（~100%）。&lt;/li&gt;
+&lt;li&gt;軟組織穿透性高。&lt;/li&gt;
+&lt;li&gt;Usual dosing：600 mg Q12H。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div style=&#34;padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;&#34;&gt;
+重症要考慮 ARC (Augmented Renal Clearance)，腎功能亢進 CrCL &gt; 130。  
+Linezolid 可考慮 450 mg Q8H（文獻建立在 MIC=1 情況下）。  
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;較好的給藥方式：Loading dose + Continuous infusion (1200 mg/24 hr)。&lt;/li&gt;
+&lt;li&gt;用超過兩周有機會 Bone marrow suppression。&lt;/li&gt;
+&lt;li&gt;用於老年患者、Severe renal impairment，易發生 Thrombocytopenia，與 trough 濃度有關，若發生可考慮 TDM 或停用。&lt;/li&gt;
+&lt;li&gt;Linezolid 屬非選擇性可逆 MAO inhibitor，併用 SSRI/SNRI/Opiate 時須監測 Serotonin Syndrome。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div style=&#34;padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #31708f; background-color: #d9edf7; border-color: #bce8f1;&#34;&gt;
+Serotonin Syndrome：流汗、躁動、不配合、myoclonus、發抖、發燒、抖動、反射增加、腹瀉、或是心智狀態改變等。
+&lt;/div&gt;
+&lt;div style=&#34;padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;&#34;&gt;
+考慮病人是否使用 Methadone、Escitazolam、Citalopram 等。
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;連續使用有視神經病變風險，停藥可改善。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div style=&#34;padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #31708f; background-color: #d9edf7; border-color: #bce8f1;&#34;&gt;
+影響視力藥物：Ethambutol、Isoniazid、Amiodarone。
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;tigecycline&#34;&gt;Tigecycline&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;商品名 Tygacil。&lt;/li&gt;
+&lt;li&gt;結構與 Tetracycline 相似，機轉與 Tetracycline 相同。&lt;/li&gt;
+&lt;li&gt;抑制肽鏈延長與蛋白質合成，屬抑菌型。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div style=&#34;padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #a94442; background-color: #f2dede; border-color: #ebccd1;&#34;&gt;
+Black box warning：與其他適當治療相比，使用替加環素治療的死亡風險增加。故通常留給後線且不單用。
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;組織穿透力強，但血中濃度很差（老虎怕水，無法治療 bacteremia、UTI），也不能過 BBB。&lt;/li&gt;
+&lt;li&gt;打不了 1B3P。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Pseudomonas aeruginosa  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Proteus spp.  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Providencia spp.  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Burkholderia cepacia  
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;主要用於治療軟組織感染與 IAI。&lt;/li&gt;
+&lt;li&gt;可處理 Imipenem-resistant AB（表此 AB 已對 beta lactam 皆 resistant）。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;NOTE:&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;</description>
       <content:encoded><![CDATA[<h2 id="what-are-enterococcus">What Are Enterococcus？</h2>
 <ul>
 <li>Gram Positive</li>
@@ -168,7 +325,13 @@ Black box warning：與其他適當治療相比，使用替加環素治療的死
       <link>http://localhost:1313/posts/2024/07/oralantiviral/</link>
       <pubDate>Thu, 11 Jul 2024 06:47:17 +0800</pubDate>
       <guid>http://localhost:1313/posts/2024/07/oralantiviral/</guid>
-      <description>口服抗病毒藥物</description>
+      <description>&lt;h2 id=&#34;口服抗病毒藥物&#34;&gt;口服抗病毒藥物&lt;/h2&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://i.imgur.com/R5mPPQh.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://i.imgur.com/yRXYxme.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://i.imgur.com/1SS599j.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;</description>
       <content:encoded><![CDATA[<h2 id="口服抗病毒藥物">口服抗病毒藥物</h2>
 <p><img loading="lazy" src="https://i.imgur.com/R5mPPQh.jpg" alt=""  />
 </p>
@@ -183,7 +346,24 @@ Black box warning：與其他適當治療相比，使用替加環素治療的死
       <link>http://localhost:1313/posts/2024/07/antidote/</link>
       <pubDate>Thu, 11 Jul 2024 06:44:17 +0800</pubDate>
       <guid>http://localhost:1313/posts/2024/07/antidote/</guid>
-      <description>全國解毒劑儲備網 常見中毒急救手冊 義大急診 PGY 急救手冊_常見中毒 特殊解毒劑一覽表：</description>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.pcc-vghtpe.tw/antidote/&#34;&gt;全國解毒劑儲備網&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://file.mooy.me/api/public/dl/nEEm0mAC?inline=true&#34;&gt;常見中毒急救手冊&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://file.mooy.me/api/public/dl/YLDGUVW4?inline=true&#34;&gt;義大急診 PGY 急救手冊_常見中毒&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;特殊解毒劑一覽表：
+&lt;img loading=&#34;lazy&#34; src=&#34;https://i.imgur.com/DhVf0ea.png&#34; alt=&#34;&#34;  /&gt;
+
+&lt;img loading=&#34;lazy&#34; src=&#34;https://i.imgur.com/Sue8anm.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
       <content:encoded><![CDATA[<ul>
 <li>
 <p><a href="https://www.pcc-vghtpe.tw/antidote/">全國解毒劑儲備網</a></p>
@@ -209,7 +389,7 @@ Black box warning：與其他適當治療相比，使用替加環素治療的死
       <link>http://localhost:1313/posts/2024/07/ios/</link>
       <pubDate>Thu, 11 Jul 2024 00:00:00 +0800</pubDate>
       <guid>http://localhost:1313/posts/2024/07/ios/</guid>
-      <description>測試能否在 iOS 上以 Working Copy 來寫作。</description>
+      <description>&lt;p&gt;測試能否在 iOS 上以 &lt;a href=&#34;https://apps.apple.com/app/id896694807&#34;&gt;Working Copy&lt;/a&gt; 來寫作。&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>測試能否在 iOS 上以 <a href="https://apps.apple.com/app/id896694807">Working Copy</a> 來寫作。</p>
 ]]></content:encoded>
     </item>
@@ -218,7 +398,8 @@ Black box warning：與其他適當治療相比，使用替加環素治療的死
       <link>http://localhost:1313/posts/2024/07/cat/</link>
       <pubDate>Wed, 10 Jul 2024 23:43:50 +0800</pubDate>
       <guid>http://localhost:1313/posts/2024/07/cat/</guid>
-      <description>即將認領貓貓。 07/10 與愛媽接觸。</description>
+      <description>&lt;p&gt;即將認領貓貓。&lt;br&gt;
+07/10 與愛媽接觸。&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>即將認領貓貓。<br>
 07/10 與愛媽接觸。</p>
 ]]></content:encoded>
@@ -228,7 +409,9 @@ Black box warning：與其他適當治療相比，使用替加環素治療的死
       <link>http://localhost:1313/posts/2022/12/thailand/</link>
       <pubDate>Wed, 28 Dec 2022 22:15:51 +0800</pubDate>
       <guid>http://localhost:1313/posts/2022/12/thailand/</guid>
-      <description>序言 自從上次 2019 年底，有幸能去泰國一趟，之後便遇到 COVID-19 肆虐，直到今年 2022 十月，台灣終於邊境解封，自國外入境不再需要隔離，才有這次的旅行。 在旅行途中</description>
+      <description>&lt;h2 id=&#34;序言&#34;&gt;序言&lt;/h2&gt;
+&lt;p&gt;自從上次 2019 年底，有幸能去泰國一趟，之後便遇到 COVID-19 肆虐，直到今年 2022 十月，台灣終於邊境解封，自國外入境不再需要隔離，才有這次的旅行。&lt;/p&gt;
+&lt;p&gt;在旅行途中其實發生許多大大小小的事，雖然最後有 Safe and Sound，但也萌生了寫篇 Blog 紀錄的想法。&lt;/p&gt;</description>
       <content:encoded><![CDATA[<h2 id="序言">序言</h2>
 <p>自從上次 2019 年底，有幸能去泰國一趟，之後便遇到 COVID-19 肆虐，直到今年 2022 十月，台灣終於邊境解封，自國外入境不再需要隔離，才有這次的旅行。</p>
 <p>在旅行途中其實發生許多大大小小的事，雖然最後有 Safe and Sound，但也萌生了寫篇 Blog 紀錄的想法。</p>
@@ -280,7 +463,29 @@ Black box warning：與其他適當治療相比，使用替加環素治療的死
       <link>http://localhost:1313/posts/2022/10/cloud-medicine/</link>
       <pubDate>Sun, 02 Oct 2022 18:37:19 +0800</pubDate>
       <guid>http://localhost:1313/posts/2022/10/cloud-medicine/</guid>
-      <description>有的同仁仍不熟悉如何使用健保雲端藥歷，此篇給同仁一點參考。 步驟 先確定「雲端安全模組主控台」有打開。 打開桌面上的健保局VPN連結。 請使用 Edge 或是</description>
+      <description>&lt;p&gt;有的同仁仍不熟悉如何使用健保雲端藥歷，此篇給同仁一點參考。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;步驟&#34;&gt;步驟&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;先確定「雲端安全模組主控台」有打開。
+&lt;img loading=&#34;lazy&#34; src=&#34;csFSIM_1.jpg&#34; alt=&#34;&#34;  /&gt;
+
+&lt;img loading=&#34;lazy&#34; src=&#34;csFSIM_2.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;打開桌面上的&lt;a href=&#34;https://medvpn.nhi.gov.tw/iwpe0000/IWPE0100S01.aspx&#34;&gt;健保局VPN&lt;/a&gt;連結。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div style=&#34;padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #31708f; background-color: #d9edf7; border-color: #bce8f1;&#34;&gt;
+請使用 Edge 或是 Chrome 開啟，使用 IE 常有莫名其妙的錯誤產生。
+&lt;/div&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;使用醫事人員卡登入，在網頁右半部輸入卡片 PIN 碼後，選擇「健保讀卡機 / 雲端控制軟體」，點擊登入。
+&lt;img loading=&#34;lazy&#34; src=&#34;login.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>有的同仁仍不熟悉如何使用健保雲端藥歷，此篇給同仁一點參考。</p>
 <hr>
 <h2 id="步驟">步驟</h2>
@@ -346,7 +551,10 @@ Black box warning：與其他適當治療相比，使用替加環素治療的死
       <link>http://localhost:1313/posts/2022/09/hello-world/</link>
       <pubDate>Mon, 26 Sep 2022 01:28:48 +0800</pubDate>
       <guid>http://localhost:1313/posts/2022/09/hello-world/</guid>
-      <description>記錄 Hugo 的 Blog 上線。 同時熟悉 Markdown 在 Hugo 上的呈現。</description>
+      <description>&lt;ul&gt;
+&lt;li&gt;記錄 Hugo 的 Blog 上線。&lt;/li&gt;
+&lt;li&gt;同時熟悉 Markdown 在 Hugo 上的呈現。&lt;/li&gt;
+&lt;/ul&gt;</description>
       <content:encoded><![CDATA[<ul>
 <li>記錄 Hugo 的 Blog 上線。</li>
 <li>同時熟悉 Markdown 在 Hugo 上的呈現。</li>

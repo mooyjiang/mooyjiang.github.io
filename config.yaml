@@ -11,7 +11,7 @@ buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
 
-paginate: 15 # 每頁顯示文章數
+# paginate: 15 # 每頁顯示文章數 deprecated
 
 defaultContentLanguage: zh-tw
 defaultContentLanguageInSubdir: false

@@ -4,7 +4,7 @@
     <title>Pharmacy on MooyJiang&#39;s Blog</title>
     <link>http://localhost:1313/tags/pharmacy/</link>
     <description>Recent content in Pharmacy on MooyJiang&#39;s Blog</description>
-    <generator>Hugo -- 0.128.2</generator>
+    <generator>Hugo -- 0.136.5</generator>
     <language>zh-tw</language>
     <lastBuildDate>Wed, 10 Jul 2024 22:22:14 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/pharmacy/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,29 @@
       <link>http://localhost:1313/posts/2022/10/cloud-medicine/</link>
       <pubDate>Sun, 02 Oct 2022 18:37:19 +0800</pubDate>
       <guid>http://localhost:1313/posts/2022/10/cloud-medicine/</guid>
-      <description>有的同仁仍不熟悉如何使用健保雲端藥歷，此篇給同仁一點參考。 步驟 先確定「雲端安全模組主控台」有打開。 打開桌面上的健保局VPN連結。 請使用 Edge 或是</description>
+      <description>&lt;p&gt;有的同仁仍不熟悉如何使用健保雲端藥歷，此篇給同仁一點參考。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;步驟&#34;&gt;步驟&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;先確定「雲端安全模組主控台」有打開。
+&lt;img loading=&#34;lazy&#34; src=&#34;csFSIM_1.jpg&#34; alt=&#34;&#34;  /&gt;
+
+&lt;img loading=&#34;lazy&#34; src=&#34;csFSIM_2.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;打開桌面上的&lt;a href=&#34;https://medvpn.nhi.gov.tw/iwpe0000/IWPE0100S01.aspx&#34;&gt;健保局VPN&lt;/a&gt;連結。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div style=&#34;padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #31708f; background-color: #d9edf7; border-color: #bce8f1;&#34;&gt;
+請使用 Edge 或是 Chrome 開啟，使用 IE 常有莫名其妙的錯誤產生。
+&lt;/div&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;使用醫事人員卡登入，在網頁右半部輸入卡片 PIN 碼後，選擇「健保讀卡機 / 雲端控制軟體」，點擊登入。
+&lt;img loading=&#34;lazy&#34; src=&#34;login.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>有的同仁仍不熟悉如何使用健保雲端藥歷，此篇給同仁一點參考。</p>
 <hr>
 <h2 id="步驟">步驟</h2>
