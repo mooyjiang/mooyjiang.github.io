@@ -25,7 +25,7 @@ ShowReadingTime: true
 ShowLastMod: true
 
 cover:
-  image: "1.jpg" # 封面圖片路径 (ex:clear-301-redirection-cache-chrome/cover.jpg)
+  image: "3.jpg" # 封面圖片路径 (ex:clear-301-redirection-cache-chrome/cover.jpg)
   caption: "" # 封面圖片底部描述
   alt: ""
   relative: false
@@ -172,7 +172,7 @@ cover:
 ### Day 13
 長官不會來看了，所以大家就在餐廳發呆一早上。  
 我們手刻了一副阿瓦隆出來，早知道早點刻出來，可以殺很多時間。  
-![](2.jpg)
+![](4.jpg)
 下午下雨所以都待在連兵舍寢室，晚上也沒事，待退狀態。  
 最後一晚了，跟大家一起聊天反而有一種小感傷。  
 
