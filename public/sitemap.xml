@@ -3,13 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/posts/2024/10/education-recall/</loc>
-    <lastmod>2024-10-31T19:35:07+08:00</lastmod>
+    <lastmod>2024-11-01T05:59:24+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-10-31T19:35:07+08:00</lastmod>
+    <lastmod>2024-11-01T05:59:24+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-10-31T19:35:07+08:00</lastmod>
+    <lastmod>2024-11-01T05:59:24+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-11-01T05:59:24+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E6%B5%B7%E9%99%B8/</loc>
+    <lastmod>2024-11-01T05:59:24+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E6%95%99%E5%8F%AC/</loc>
+    <lastmod>2024-11-01T05:59:24+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/2024/07/vre/</loc>
     <lastmod>2024-07-11T07:08:09+08:00</lastmod>
@@ -25,9 +34,6 @@
   </url><url>
     <loc>http://localhost:1313/posts/2024/07/cat/</loc>
     <lastmod>2024-07-11T06:10:47+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-07-10T22:22:14+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/thailand/</loc>
     <lastmod>2024-07-10T22:22:14+08:00</lastmod>
