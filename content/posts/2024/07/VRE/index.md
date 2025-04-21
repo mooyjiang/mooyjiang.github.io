@@ -21,7 +21,7 @@ hidemeta: false # 是否隱藏meta訊息(ex:發布日期、作者...etc)
 disableShare: false # 取消社群分享區塊
 showbreadcrumbs: true # 於頂部顯示文章路徑
 ShowWordCount: true
-ShowReadingTime: true
+ShowReadingTime: false
 ShowLastMod: true
 
 cover:
