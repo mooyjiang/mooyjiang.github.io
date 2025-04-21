@@ -145,8 +145,8 @@ params:
       url: "https://t.me/s/mooyjiang"
     - name: instagram
       url: "http://instagram.com/mooyjiang/"
-    - name: twitter
-      url: "https://twitter.com/mooyjiang"
+    - name: X
+      url: "https://x.com/mooyjiang"
     - name: facebook
       url: "https://www.facebook.com/mooy575/"
     - name: github
@@ -197,7 +197,7 @@ privacy:
     disabled: false
     simple: true
 
-  twitter:
+  x:
     disabled: false
     enableDNT: true
     simple: true
@@ -213,5 +213,5 @@ privacy:
 services:
   instagram:
     disableInlineCSS: true
-  twitter:
+  x:
     disableInlineCSS: true

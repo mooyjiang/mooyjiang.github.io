@@ -6,8 +6,90 @@
     <description>Recent content on MooyJiang&#39;s Blog</description>
     <generator>Hugo -- 0.146.6</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 15 Dec 2024 17:25:01 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 21 Apr 2025 20:20:32 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lactate Ringer</title>
+      <link>http://localhost:1313/posts/2025/04/lactate-ringer/</link>
+      <pubDate>Mon, 21 Apr 2025 20:17:52 +0800</pubDate>
+      <guid>http://localhost:1313/posts/2025/04/lactate-ringer/</guid>
+      <description>&lt;h1 id=&#34;輸注用液&#34;&gt;輸注用液&lt;/h1&gt;
+&lt;h2 id=&#34;種類&#34;&gt;種類&lt;/h2&gt;
+&lt;h3 id=&#34;林格氏液ringers-solution&#34;&gt;林格氏液（Ringer’s Solution）&lt;/h3&gt;
+&lt;p&gt;Na 147 mEq/L、Cl 156 mEq/L、K 4 mEq/L、Ca 4 mEq/L&lt;br&gt;
+pH 5.8、309 mOsm/L&lt;/p&gt;
+&lt;div style=&#34;padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #3c763d; background-color: #dff0d8; border-color: #d6e9c6;&#34;&gt;
+（生理）食鹽水 + 鈣 + 鉀。&lt;br&gt;
+更符合
+&lt;/div&gt;  
+&lt;h3 id=&#34;生理食鹽水normal-saline&#34;&gt;生理食鹽水（Normal Saline）&lt;/h3&gt;
+&lt;p&gt;Na 154 mEq/L、Cl 154 mEq/L&lt;br&gt;
+pH 5.7、308 mOsm/L&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<h1 id="輸注用液">輸注用液</h1>
+<h2 id="種類">種類</h2>
+<h3 id="林格氏液ringers-solution">林格氏液（Ringer’s Solution）</h3>
+<p>Na 147 mEq/L、Cl 156 mEq/L、K 4 mEq/L、Ca 4 mEq/L<br>
+pH 5.8、309 mOsm/L</p>
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #3c763d; background-color: #dff0d8; border-color: #d6e9c6;">
+（生理）食鹽水 + 鈣 + 鉀。<br>
+更符合
+</div>  
+<h3 id="生理食鹽水normal-saline">生理食鹽水（Normal Saline）</h3>
+<p>Na 154 mEq/L、Cl 154 mEq/L<br>
+pH 5.7、308 mOsm/L</p>
+<h3 id="乳酸林格氏液lactate-ringers-solution">乳酸林格氏液（Lactate Ringer’s Solution）</h3>
+<p>= Na 130 mEq/L、Cl 109 mEq/L、K 4 mEq/L、Ca 3 mEq/L、lactate 28mEq/L<br>
+pH 6.5、273 mOsm/L</p>
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #3c763d; background-color: #dff0d8; border-color: #d6e9c6;">
+添加乳酸鈉（Sodium lactate）到林格氏液中，用以提供治療代謝性酸中毒的緩衝。  
+</div>
+<h3 id="醋酸林格氏液acetate-ringers-solution">醋酸林格氏液（Acetate Ringer’s Solution）</h3>
+<p>= Na 131 mEq/L、Cl 109 mEq/L、K 4 mEq/L、Ca 3 mEq/L、acetate 28mEq/L<br>
+pH 6.7、275 mOsm/L</p>
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #3c763d; background-color: #dff0d8; border-color: #d6e9c6;">
+在嚴重肝臟疾病的患者，會有乳酸清除障礙，因為有乳酸堆積的顧慮，所以將用醋酸取代乳酸添加到林格氏液中。
+</div>
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+醋酸可在肌肉中被代謝，而不會造成堆積。
+</div>
+<h2 id="why-林格氏液">Why 林格氏液？</h2>
+<h3 id="優點">優點</h3>
+<ul>
+<li>乳酸 / 醋酸林格氏液，與生理食鹽水相比，因為多了緩衝，對於酸鹼平衡影響較小。</li>
+<li>可以補充鈣離子，在急性胰臟炎導致低血鈣的病人有治療效果。</li>
+<li>雖然微量，但乳酸可在身體中代謝產生能量。</li>
+</ul>
+<h3 id="缺點">缺點</h3>
+<ul>
+<li>含鈣，所以要避免沉澱的發生。
+<ul>
+<li>雖然不一定會發生沉澱，但抗生素的給予還是以生理食鹽水為主。</li>
+<li>輸血的稀釋液禁用林格氏液，鈣離子會和抗凝血劑（檸檬酸離子）鉗合產生血塊。</li>
+</ul>
+</li>
+</ul>
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #a94442; background-color: #f2dede; border-color: #ebccd1;">
+一般林格氏液的給予並不會顯著提高血清乳酸，除非病患對乳酸的清除能力為零，且正在接受大量林格氏液輸注。
+</div>
+<h2 id="林格氏液與-5-葡萄糖水溶液的比較">林格氏液與 5% 葡萄糖水溶液的比較</h2>
+<ul>
+<li>雖然乳酸 / 醋酸林格氏液可以提供少量的能量，但仍遠比不過葡萄糖水溶液。</li>
+<li>短時間禁食的病人，葡萄糖的給予可以產生蛋白質保留效應（protein-sparing effect），避免身體大量分解血漿中重要的蛋白質。</li>
+</ul>
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #a94442; background-color: #f2dede; border-color: #ebccd1;">
+長時間的禁食，請使用TPN
+</div>
+<ul>
+<li>每 1 公升的 D5W 可增加 350 mL 的細胞外液，可增加 650 mL 的細胞內液，葡萄糖水溶液會使細胞腫脹，一些疾病如顱內壓升高（IICP），應該避免或更為謹慎的使用含葡萄糖溶液。
+<ul>
+<li>葡萄糖經過無氧呼吸後產生乳酸。</li>
+<li>在化學反應中，增加反應物會增加生成物，提高生成物的濃度反而會限制化學反應往生成物的方向進行。</li>
+<li>在重症（尤其血液循環受阻）的病人中，給予大量的葡萄糖水溶液，比起給予大量的乳酸林格氏液，大量的葡萄糖水溶液反而會更大幅的上升血清中乳酸濃度，而大量的乳酸林格氏液則只會稍微上升。</li>
+</ul>
+</li>
+</ul>
+]]></content:encoded>
+    </item>
     <item>
       <title>中西大合輯</title>
       <link>http://localhost:1313/posts/2024/12/east-west-medicine/</link>
