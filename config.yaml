@@ -64,7 +64,7 @@ params:
   env: production
   description: "This is MooyJiang's Blog"
   keywords: [Blog, Portfolio, PaperMod]
-  author: MooyJiang
+  #author: MooyJiang
   defaultTheme: dark
   disableThemeToggle: false
 
