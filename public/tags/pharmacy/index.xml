@@ -4,7 +4,7 @@
     <title>Pharmacy on MooyJiang&#39;s Blog</title>
     <link>http://localhost:1313/tags/pharmacy/</link>
     <description>Recent content in Pharmacy on MooyJiang&#39;s Blog</description>
-    <generator>Hugo -- 0.139.5</generator>
+    <generator>Hugo -- 0.146.6</generator>
     <language>zh-tw</language>
     <lastBuildDate>Wed, 10 Jul 2024 22:22:14 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/pharmacy/index.xml" rel="self" type="application/rss+xml" />
@@ -19,10 +19,8 @@
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;先確定「雲端安全模組主控台」有打開。
-&lt;img loading=&#34;lazy&#34; src=&#34;csFSIM_1.jpg&#34; alt=&#34;&#34;  /&gt;
-
-&lt;img loading=&#34;lazy&#34; src=&#34;csFSIM_2.jpg&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/2022/10/cloud-medicine/csFSIM_1.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/2022/10/cloud-medicine/csFSIM_2.jpg&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;打開桌面上的&lt;a href=&#34;https://medvpn.nhi.gov.tw/iwpe0000/IWPE0100S01.aspx&#34;&gt;健保局VPN&lt;/a&gt;連結。&lt;/p&gt;
@@ -34,18 +32,15 @@
 &lt;ol start=&#34;3&#34;&gt;
 &lt;li&gt;
 &lt;p&gt;使用醫事人員卡登入，在網頁右半部輸入卡片 PIN 碼後，選擇「健保讀卡機 / 雲端控制軟體」，點擊登入。
-&lt;img loading=&#34;lazy&#34; src=&#34;login.jpg&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;</description>
+&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/2022/10/cloud-medicine/login.jpg&#34;&gt;&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>有的同仁仍不熟悉如何使用健保雲端藥歷，此篇給同仁一點參考。</p>
 <hr>
 <h2 id="步驟">步驟</h2>
 <ol>
 <li>
 <p>先確定「雲端安全模組主控台」有打開。
-<img loading="lazy" src="csFSIM_1.jpg" alt=""  />
-
-<img loading="lazy" src="csFSIM_2.jpg" alt=""  />
-</p>
+<img loading="lazy" src="/posts/2022/10/cloud-medicine/csFSIM_1.jpg">
+<img loading="lazy" src="/posts/2022/10/cloud-medicine/csFSIM_2.jpg"></p>
 </li>
 <li>
 <p>打開桌面上的<a href="https://medvpn.nhi.gov.tw/iwpe0000/IWPE0100S01.aspx">健保局VPN</a>連結。</p>
@@ -57,16 +52,14 @@
 <ol start="3">
 <li>
 <p>使用醫事人員卡登入，在網頁右半部輸入卡片 PIN 碼後，選擇「健保讀卡機 / 雲端控制軟體」，點擊登入。
-<img loading="lazy" src="login.jpg" alt=""  />
-</p>
+<img loading="lazy" src="/posts/2022/10/cloud-medicine/login.jpg"></p>
 </li>
 <li>
 <p>左半部功能選單可以選擇：</p>
 <ul>
 <li>健保雲端藥歷系統查詢結果。</li>
 <li>因應天災及緊急醫療查詢作業。（需要該醫事人員卡有申請此功能）
-<img loading="lazy" src="menu.jpg" alt=""  />
-</li>
+<img loading="lazy" src="/posts/2022/10/cloud-medicine/menu.jpg"></li>
 </ul>
 </li>
 <li>
@@ -81,8 +74,7 @@
 <ol>
 <li>打開 HIS 系統 -&gt; [SYS] 共用系統 -&gt; IC 卡共用程式。</li>
 <li>正常會跳出「安全模組認證中」，待其跑完就可以了。
-<img loading="lazy" src="verifying.jpg" alt=""  />
-</li>
+<img loading="lazy" src="/posts/2022/10/cloud-medicine/verifying.jpg"></li>
 <li>或者手動執行「13.SAM 與 DC 認證」，亦有相同效果。</li>
 </ol>
 </li>

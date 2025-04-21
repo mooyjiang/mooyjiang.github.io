@@ -1,7 +1,7 @@
 baseURL: 'http://blog.mooy.me/'
 title: MooyJiang's Blog
 languageCode: zh-tw # 預設語系配置
-theme: PaperMod
+theme: hugo-PaperMod
 
 enableInlineShortcodes: true
 enableRobotsTXT: true

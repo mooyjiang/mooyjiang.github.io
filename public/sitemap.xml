@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/2024/10/education-recall/</loc>
-    <lastmod>2024-11-01T07:24:48+08:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-11-01T07:24:48+08:00</lastmod>
+    <lastmod>2024-12-15T17:25:01+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-12-15T17:25:01+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2024/12/east-west-medicine/</loc>
+    <lastmod>2024-12-15T17:25:01+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2024/10/education-recall/</loc>
     <lastmod>2024-11-01T07:24:48+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
@@ -35,10 +38,10 @@
     <loc>http://localhost:1313/posts/2024/07/cat/</loc>
     <lastmod>2024-07-11T06:10:47+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/thailand/</loc>
+    <loc>http://localhost:1313/posts/2022/12/thailand/</loc>
     <lastmod>2024-07-10T22:22:14+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2022/12/thailand/</loc>
+    <loc>http://localhost:1313/tags/thailand/</loc>
     <lastmod>2024-07-10T22:22:14+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/travel/</loc>
