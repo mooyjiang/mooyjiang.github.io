@@ -31,7 +31,7 @@ cover:
   relative: false
 ---
 
-![](/images/1.jpg)
+![](about.jpg)
 小小藥師，愛看電影、聽音樂、打排球。  
 Born in Kaohsiung, Taiwan in 1994.  
 Now a pharmacist.  

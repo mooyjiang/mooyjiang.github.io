@@ -6,7 +6,7 @@
     <description>Recent content in Posts on MooyJiang&#39;s Blog</description>
     <generator>Hugo -- 0.146.6</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 26 Apr 2025 23:55:09 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 27 Apr 2025 00:14:47 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DI 藥物諮詢</title>
@@ -567,7 +567,7 @@ ESA = 促紅細胞生成素刺激劑 Erythropoietin-Stimulating Agents，通常�
           <td style="text-align: left">NESP®</td>
       </tr>
       <tr>
-          <td style="text-align: left">T<del>1/2</del></td>
+          <td style="text-align: left">T<sub>1/2</sub></td>
           <td style="text-align: left">IV 4-11 hr<br>SC 19-25.3 hr</td>
           <td style="text-align: left">IV 8.8-10.4 hr<br>SC 24 hr</td>
           <td style="text-align: left">IV 18-25.3 hr<br>SC 48.8 hr</td>
@@ -580,7 +580,7 @@ ESA = 促紅細胞生成素刺激劑 Erythropoietin-Stimulating Agents，通常�
 <li>補充：
 <ol>
 <li>Folic acid</li>
-<li>Vit. B<del>12</del>（素食者尤缺，通常洗腎完口服）</li>
+<li>Vit. B<sub>12</sub>（素食者尤缺，通常洗腎完口服）</li>
 <li>Fe</li>
 <li>通常不建議自行補充 Ca、Vit.，脂溶性藥物會堆積，洗腎無法處理。</li>
 </ol>
@@ -628,16 +628,16 @@ iPTH > 375 or P x Ca > 70，不建議用鈣來降磷。<br>
 （iPTH 正常 75）
 </div>
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #31708f; background-color: #d9edf7; border-color: #bce8f1;">
-* Calcium<br>
-  * 飯中：降磷<br>
-  * 飯後：補鈣<br>
-* Potassium citrate：用於尿路結石，補鉀為 off-lable use。<br>
-* 一般 KCL 一支可補 2.54 mEq 的鉀，受限於給藥途徑容忍度：<br>
-  * 周邊：濃度 < 40 mEq/l、流速 < 20 mEq/hr，否則易周邊靜脈炎。<br>
-  * 口服：腸胃可容忍 120 mEq。
+・ Calcium<br>
+  &emsp;。 飯中：降磷<br>
+  &emsp;。 飯後：補鈣<br>
+・ Potassium citrate：用於尿路結石，補鉀為 off-lable use。<br>
+・ 一般 KCL 一支可補 2.54 mEq 的鉀，受限於給藥途徑容忍度：<br>
+  &emsp;。 周邊：濃度 < 40 mEq/l、流速 < 20 mEq/hr，否則易周邊靜脈炎。<br>
+  &emsp;。 口服：腸胃可容忍 120 mEq。
 </div>
 <ul>
-<li>Minoxidil：用於洗腎病患之高血壓。K^+^ channel opener，亦可治療雄性禿。</li>
+<li>Minoxidil：用於洗腎病患之高血壓。K<sup>+</sup> channel opener，亦可治療雄性禿。</li>
 </ul>
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #a94442; background-color: #f2dede; border-color: #ebccd1;">
 有皮膚穿透性、致畸胎性，不上包藥機。
@@ -737,9 +737,9 @@ iPTH > 375 or P x Ca > 70，不建議用鈣來降磷。<br>
 </li>
 </ul>
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-* Sumatriptan 轉換至 Ergotamine：間隔至少 6 小時。<br>
-* Ergotamine 轉換至 Sumatriptan：間隔至少 24 小時。<br>
-* 以上兩種藥皆用於急性發作，不可用於長期預防，亦不可同時使用。
+・ Sumatriptan 轉換至 Ergotamine：間隔至少 6 小時。<br>
+・ Ergotamine 轉換至 Sumatriptan：間隔至少 24 小時。<br>
+・ 以上兩種藥皆用於急性發作，不可用於長期預防，亦不可同時使用。
 </div>
 <h2 id="骨質疏鬆">骨質疏鬆</h2>
 <ul>
@@ -836,7 +836,7 @@ iPTH > 375 or P x Ca > 70，不建議用鈣來降磷。<br>
 </li>
 </ul>
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #31708f; background-color: #d9edf7; border-color: #bce8f1;">
-最好使用有機磷、有機鈣，較不易沉澱，但是價格高，與無機差在 K~SP~ 解離率。
+最好使用有機磷、有機鈣，較不易沉澱，但是價格高，與無機差在 K<sub>SP</sub> 解離率。
 </div>
 <ul>
 <li>商業配方：電解質已加在胺基酸內，周邊與中央品項可能相似，分開存放防拿錯。</li>
