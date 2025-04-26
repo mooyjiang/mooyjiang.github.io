@@ -6,7 +6,7 @@
     <description>Recent content on MooyJiang&#39;s Blog</description>
     <generator>Hugo -- 0.146.6</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 27 Apr 2025 00:14:47 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 27 Apr 2025 00:29:09 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DI 藥物諮詢</title>
@@ -1895,8 +1895,20 @@ Black box warning：與其他適當治療相比，使用替加環素治療的死
       <link>http://localhost:1313/about/</link>
       <pubDate>Tue, 27 Sep 2022 04:31:22 +0800</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;To be done.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>To be done.</p>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/1.jpg&#34;&gt;
+小小藥師，愛看電影、聽音樂、打排球。&lt;br&gt;
+Born in Kaohsiung, Taiwan in 1994.&lt;br&gt;
+Now a pharmacist.&lt;br&gt;
+Chinese, English, Taiwanese.&lt;br&gt;
+Love music, photopraphy, technology, and volleyball.&lt;br&gt;
+Enjoyer of all interesting and risky things.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><img loading="lazy" src="/images/1.jpg">
+小小藥師，愛看電影、聽音樂、打排球。<br>
+Born in Kaohsiung, Taiwan in 1994.<br>
+Now a pharmacist.<br>
+Chinese, English, Taiwanese.<br>
+Love music, photopraphy, technology, and volleyball.<br>
+Enjoyer of all interesting and risky things.</p>
 ]]></content:encoded>
     </item>
     <item>

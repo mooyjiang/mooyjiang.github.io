@@ -31,4 +31,10 @@ cover:
   relative: false
 ---
 
-To be done.
+![](/images/1.jpg)
+小小藥師，愛看電影、聽音樂、打排球。  
+Born in Kaohsiung, Taiwan in 1994.  
+Now a pharmacist.  
+Chinese, English, Taiwanese.  
+Love music, photopraphy, technology, and volleyball.  
+Enjoyer of all interesting and risky things.  
