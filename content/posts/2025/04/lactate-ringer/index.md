@@ -1,5 +1,5 @@
 ---
-title: "Lactate Ringer"
+title: "Lactate Ringer 乳酸林格氏液"
 date: 2025-04-21T20:17:52+08:00
 draft: false
 
