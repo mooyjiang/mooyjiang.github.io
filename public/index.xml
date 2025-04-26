@@ -6,33 +6,974 @@
     <description>Recent content on MooyJiang&#39;s Blog</description>
     <generator>Hugo -- 0.146.6</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Mon, 21 Apr 2025 20:20:32 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 27 Apr 2025 00:14:47 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Lactate Ringer</title>
+      <title>DI 藥物諮詢</title>
+      <link>http://localhost:1313/posts/2025/04/medication-consultation/</link>
+      <pubDate>Sat, 26 Apr 2025 23:35:20 +0800</pubDate>
+      <guid>http://localhost:1313/posts/2025/04/medication-consultation/</guid>
+      <description>&lt;h2 id=&#34;確認問題&#34;&gt;確認問題&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;了解病患需求。&lt;/li&gt;
+&lt;li&gt;收集病患資料。&lt;/li&gt;
+&lt;li&gt;Ex. [M01]、[C01]、[基11]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;回答問題&#34;&gt;回答問題&lt;/h2&gt;
+&lt;div style=&#34;padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #31708f; background-color: #d9edf7; border-color: #bce8f1;&#34;&gt;
+在回答問題之前，請先雙重辨識病患身分。&lt;br&gt;
+即使是電話衛教依然要確認身分。
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;善用手邊工具。&lt;/li&gt;
+&lt;li&gt;Ex. UpToDate、MicroMedex&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div style=&#34;padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #a94442; background-color: #f2dede; border-color: #ebccd1;&#34;&gt;
+涉及個人隱私的部分，如精神疾病、性病、AIDS 等，不可電話諮詢，&lt;br&gt;
+請**本人**到現場，確認完身分再行諮詢。
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;藥袋通常只會標示發生率 &amp;gt;10% 之 ADR。&lt;/li&gt;
+&lt;li&gt;若仿單未標示中毒劑量、處置、安定性，可致電詢問藥廠藥師。&lt;/li&gt;
+&lt;li&gt;諮詢之 ADR 若是由藥物引起，可通知醫師、給予 Evidence，看要停藥或換藥。&lt;/li&gt;
+&lt;li&gt;若非藥物引起，請病患儘早就醫。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Type A 與正常藥理反應有關，可預期的且與劑量有關。
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Type B 則為不可預期，無法由已知的作用預知，與劑量無關且通常為致命性的。
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Type C 是遲發性反應，慢性毒性、劑量累積造成的畸胎或致癌性。
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;非藥物相關問題，如檢驗值等，可拒絕諮詢。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div style=&#34;padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;&#34;&gt;
+不要回答非自己專業的東西，縱使了解也不要告知，拿多少錢做多少事，多說多錯。
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;常見問題&#34;&gt;常見問題&lt;/h2&gt;
+&lt;h3 id=&#34;常用疫苗&#34;&gt;常用疫苗&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;HPV 子宮頸癌：2 價（保蓓 Cervarix®）、4 價（嘉喜 Gardasil®）、9 價（嘉喜9 Gardasil9®）。&lt;/li&gt;
+&lt;li&gt;肺炎鏈球菌：7 價（Prevenar®）、10 價（Synflorix®）、13 價（Prevenar 13®）、23 價（PPV23）。&lt;/li&gt;
+&lt;li&gt;輪狀病毒：口服，Rotarix®、Rotateq®，活性減毒疫苗。&lt;/li&gt;
+&lt;li&gt;帶狀泡疹：俗稱皮蛇，Zostavax®、Shingrix®。&lt;/li&gt;
+&lt;li&gt;MMR：Measles（麻疹）、Mumps（腮腺炎）、Rubella（德國麻疹）。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cdc.gov.tw/File/Get/83fnbb9oIRBWMBL_AR6Jkw&#34;&gt;兒童疫苗接種時程&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cdc.gov.tw/File/Get/7HXDNKcsK13duJoakNWkLQ&#34;&gt;各項預防接種間隔時間&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;兒童相關用藥&#34;&gt;兒童相關用藥&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;幼兒服藥後嘔吐：
+&lt;ul&gt;
+&lt;li&gt;未達半小時：補服一劑。&lt;/li&gt;
+&lt;li&gt;超過半小時：待下次服藥時間再吃。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;退燒用藥：
+&lt;ul&gt;
+&lt;li&gt;Ibuprofen：體溫 &amp;gt; 38°C。&lt;/li&gt;
+&lt;li&gt;Acetaminophen：Q6H 用於退燒、PRN 用於止痛。&lt;/li&gt;
+&lt;li&gt;Diclofenac 塞劑：間隔兩小時。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div style=&#34;padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #31708f; background-color: #d9edf7; border-color: #bce8f1;&#34;&gt;
+塞劑若使用半顆，可直接橫剪（學校教直剪），可剪完再開包裝，側躺使肛門露出，不用時可冷藏保存。
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;Lactulose：小兒便祕可用，泡成 &amp;lt; 10 ml，軟便即可停藥。&lt;/li&gt;
+&lt;li&gt;空腹使用藥物：
+&lt;ul&gt;
+&lt;li&gt;Azithromycin 日舒®，抗生素。&lt;/li&gt;
+&lt;li&gt;Metopramide 止吐。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;耳滴劑：側躺使用，每滴之間間隔 30 秒。
+&lt;ul&gt;
+&lt;li&gt;成人：向後上拉。&lt;/li&gt;
+&lt;li&gt;兒童：向後下拉。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;都寶寶、胖胖魚等：兒童太小不會吸，通常不使用此類藥物。（10 歲以上才使用。）&lt;/li&gt;
+&lt;li&gt;哺乳用藥：可查詢 &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/books/NBK501922/&#34;&gt;LactMed&lt;/a&gt;。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;藥物不會分泌至乳汁：安全。
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;藥物會分泌至乳汁：停止哺乳，直至藥品服用完畢。（查詢藥物 PK，等 5-7 個 T1/2 再開始使用。）
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;但停哺期間，仍可擠出乳汁（丟棄），防止因停哺而停止分泌乳汁。
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;CMV 巨細胞病毒：占新生兒感染最高比例。
+&lt;ul&gt;
+&lt;li&gt;症狀：出血性腹瀉、子宮內胎兒發展遲緩、聽力受損。&lt;/li&gt;
+&lt;li&gt;檢測：
+&lt;ul&gt;
+&lt;li&gt;產前：羊水液、MRI。&lt;/li&gt;
+&lt;li&gt;產後：血液、尿液。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;先天性：Primary，透過胎盤傳染，感染風險較高、較嚴重。&lt;/li&gt;
+&lt;li&gt;後天性：Secondary，經哺乳感染，母體抵抗力較強。&lt;/li&gt;
+&lt;li&gt;感染風險較高族群：非白人、社經地位低、早產兒、新生兒 ICU。&lt;/li&gt;
+&lt;li&gt;85-90% 之新生兒感染無症狀。&lt;/li&gt;
+&lt;li&gt;10-15% 有症狀：小頭症、體重輕、聽力受損、黃疸。&lt;/li&gt;
+&lt;li&gt;目前無疫苗，且感染症狀不明顯。&lt;/li&gt;
+&lt;li&gt;病理：CMV 感染 -&amp;gt; 影響 Cytokine（Chemokine CMP-1、Cytokine TNF-alpha，用於調節胎盤成長。） -&amp;gt; 抑制 Trophoblast -&amp;gt; 影響胎盤 -&amp;gt; 絨毛微血管發展↓、水腫。&lt;/li&gt;
+&lt;li&gt;母體感染目前無藥可治，Valganciclovir 試驗中。&lt;/li&gt;
+&lt;li&gt;新生兒感染：Ganciclovir，再給 Valganciclovir。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;特殊衛教&#34;&gt;特殊衛教&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fosamax®：Alendronate sodium，雙磷酸鹽類，抑制破骨細胞，治療骨鬆，QW 使用，須空腹配服一大杯水，服用完上半身直立至少半小時。
+&lt;ul&gt;
+&lt;li&gt;避免刺激食道。&lt;/li&gt;
+&lt;li&gt;下顎骨壞死併發症（Osteonecrosis of jaw）。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;NTG 衛教：使用時機，舌下、五分鐘一次，原罐避光保存、怕高溫，開封半年換新。&lt;br&gt;
+（偏遠地區可建議一次無效即就醫，爭取時間。）&lt;/li&gt;
+&lt;li&gt;Statin 類：經 CYP450 代謝（除 Pravastatin 由 Sulfation 代謝），有肌毒性、橫紋肌溶解（Lab data 可見 CK 與 Myoglobin 上升）。&lt;/li&gt;
+&lt;li&gt;Bisacodyl：緩瀉劑，&lt;strong&gt;不可磨粉&lt;/strong&gt;，有穿腸風險。（管灌病患改用塞劑）&lt;/li&gt;
+&lt;li&gt;Cimetidine 併用 Metformin？留意低血糖，Cimetidine 會抑制藥物代謝（增強藥效）。&lt;/li&gt;
+&lt;li&gt;Nystatin：口服生可用率差，多外用，治療口腔念珠菌感染，用含的。&lt;br&gt;
+（幼兒不會含：以棉花棒或紗布沾取塗抹。）&lt;/li&gt;
+&lt;li&gt;Acetylcystein 發泡錠：若使用半顆，可剝半放鋁箔內，或是泡完喝半杯。&lt;/li&gt;
+&lt;li&gt;Smecta®：吸附型止瀉劑，可用水或果汁每包泡成 50-120 ml，與其他藥品間隔 2 小時，TID 服用，&lt;strong&gt;沒有電解質功能&lt;/strong&gt;。&lt;/li&gt;
+&lt;li&gt;Beta agonist
+吸入劑：Berotec®、Ventolin®。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;緊急緩解用，應隨身攜帶。
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;含推進劑，不可放高溫車上。
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;使用後若無效，每 20 分鐘可使用一次，第三次無效則就醫。
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;若一下子就失效，最多可重複使用 8 次。
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;含類固醇吸入劑多不會長期使用，3-6 個月病況穩定後，可改用 Beta agonist 與生活控制。&lt;/li&gt;
+&lt;li&gt;喉噴劑：局麻、止痛。通常 6 歲以下不使用。&lt;br&gt;
+（若用於 1 歲以下，常是腸病毒造成之喉破，飯前使用減輕痛楚。）&lt;/li&gt;
+&lt;li&gt;經皮吸收之賀爾蒙藥物避免塗於生殖部位。&lt;/li&gt;
+&lt;li&gt;月經能否使用陰道塞劑？不需停用。&lt;/li&gt;
+&lt;li&gt;Benzodiazepines 類藥物頻次為 HS 時，可能適應症為解痙（夜痙），先詢問再回答，勿斷定是助眠用。&lt;/li&gt;
+&lt;li&gt;鐵劑：飯前吸收較好，但改飯後可減少副作用不適。
+&lt;ul&gt;
+&lt;li&gt;副作用主要為腸胃問題，腹瀉、便秘皆可能發生。&lt;/li&gt;
+&lt;li&gt;糞尿變色。&lt;/li&gt;
+&lt;li&gt;不可與乳製品併服。&lt;/li&gt;
+&lt;li&gt;與制酸劑、鈣片分開服用（間隔 2 小時）。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;醫院筆記&#34;&gt;醫院筆記&lt;/h1&gt;
+&lt;h2 id=&#34;aids&#34;&gt;AIDS&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;母子垂直感染發生率約 50%~80%，但經有效措施可降至 8%。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;AIDS 抗病毒藥物：NRTIs、NNRTIs、PIs、Integrase inhibitor、Fusion inhibitor。
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;通常是（NRTIs x2）+（NNRTIs x1）or（PIs x1）or（Integrase x1）or（Fusion inhibitor x1） 
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;如何降低垂直感染機會？懷孕 14 周後給予 HARRT。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div style=&#34;padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #a94442; background-color: #f2dede; border-color: #ebccd1;&#34;&gt;
+選用沒有致畸胎性之藥物。
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;目標是降低母體病毒量至 &amp;lt;1000 copies/ml。&lt;/li&gt;
+&lt;li&gt;若懷孕 36 周時無法降低病毒量至目標值以下，或感染後至懷孕起超過 36 周，且未曾使用 HARRT，則於 38 周時剖腹產。&lt;/li&gt;
+&lt;li&gt;產後&lt;strong&gt;不可&lt;/strong&gt;哺乳。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;孕婦&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;嬰兒&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;ZDV 2 mg/kg IV bolus，&lt;br&gt;then 1 mg/kg/hr IV 直到分娩結束。&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;口服 ZDV 2 mg/kg QID 6 周。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;開始產痛口服 ZDV 600 mg + 3TC 150 mg BID。&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;口服 ZDV 4 mg/kg + 3TC 2 mg/kg BID 7 天。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;開始產痛口服 NVP 200 mg。&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;口服 NVP 2 mg/kg。&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;若服用 NVP 後不到一小時即生產，則嬰兒盡快口服 NVP，48-72 hr 後再給予一劑。&lt;br&gt;
+&lt;font size=2&gt;*ZDV=Zidovudine、3TC=Lamivudine、NVP=Nevirapine&lt;/font&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<h2 id="確認問題">確認問題</h2>
+<ul>
+<li>了解病患需求。</li>
+<li>收集病患資料。</li>
+<li>Ex. [M01]、[C01]、[基11]</li>
+</ul>
+<hr>
+<h2 id="回答問題">回答問題</h2>
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #31708f; background-color: #d9edf7; border-color: #bce8f1;">
+在回答問題之前，請先雙重辨識病患身分。<br>
+即使是電話衛教依然要確認身分。
+</div>
+<ul>
+<li>善用手邊工具。</li>
+<li>Ex. UpToDate、MicroMedex</li>
+</ul>
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #a94442; background-color: #f2dede; border-color: #ebccd1;">
+涉及個人隱私的部分，如精神疾病、性病、AIDS 等，不可電話諮詢，<br>
+請**本人**到現場，確認完身分再行諮詢。
+</div>
+<ul>
+<li>藥袋通常只會標示發生率 &gt;10% 之 ADR。</li>
+<li>若仿單未標示中毒劑量、處置、安定性，可致電詢問藥廠藥師。</li>
+<li>諮詢之 ADR 若是由藥物引起，可通知醫師、給予 Evidence，看要停藥或換藥。</li>
+<li>若非藥物引起，請病患儘早就醫。</li>
+</ul>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">Type A 與正常藥理反應有關，可預期的且與劑量有關。
+</span></span><span class="line"><span class="cl">Type B 則為不可預期，無法由已知的作用預知，與劑量無關且通常為致命性的。
+</span></span><span class="line"><span class="cl">Type C 是遲發性反應，慢性毒性、劑量累積造成的畸胎或致癌性。
+</span></span></code></pre></td></tr></table>
+</div>
+</div><ul>
+<li>非藥物相關問題，如檢驗值等，可拒絕諮詢。</li>
+</ul>
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+不要回答非自己專業的東西，縱使了解也不要告知，拿多少錢做多少事，多說多錯。
+</div>
+<hr>
+<h2 id="常見問題">常見問題</h2>
+<h3 id="常用疫苗">常用疫苗</h3>
+<ul>
+<li>HPV 子宮頸癌：2 價（保蓓 Cervarix®）、4 價（嘉喜 Gardasil®）、9 價（嘉喜9 Gardasil9®）。</li>
+<li>肺炎鏈球菌：7 價（Prevenar®）、10 價（Synflorix®）、13 價（Prevenar 13®）、23 價（PPV23）。</li>
+<li>輪狀病毒：口服，Rotarix®、Rotateq®，活性減毒疫苗。</li>
+<li>帶狀泡疹：俗稱皮蛇，Zostavax®、Shingrix®。</li>
+<li>MMR：Measles（麻疹）、Mumps（腮腺炎）、Rubella（德國麻疹）。</li>
+<li><a href="https://www.cdc.gov.tw/File/Get/83fnbb9oIRBWMBL_AR6Jkw">兒童疫苗接種時程</a></li>
+<li><a href="https://www.cdc.gov.tw/File/Get/7HXDNKcsK13duJoakNWkLQ">各項預防接種間隔時間</a></li>
+</ul>
+<hr>
+<h3 id="兒童相關用藥">兒童相關用藥</h3>
+<ul>
+<li>幼兒服藥後嘔吐：
+<ul>
+<li>未達半小時：補服一劑。</li>
+<li>超過半小時：待下次服藥時間再吃。</li>
+</ul>
+</li>
+<li>退燒用藥：
+<ul>
+<li>Ibuprofen：體溫 &gt; 38°C。</li>
+<li>Acetaminophen：Q6H 用於退燒、PRN 用於止痛。</li>
+<li>Diclofenac 塞劑：間隔兩小時。</li>
+</ul>
+</li>
+</ul>
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #31708f; background-color: #d9edf7; border-color: #bce8f1;">
+塞劑若使用半顆，可直接橫剪（學校教直剪），可剪完再開包裝，側躺使肛門露出，不用時可冷藏保存。
+</div>
+<ul>
+<li>Lactulose：小兒便祕可用，泡成 &lt; 10 ml，軟便即可停藥。</li>
+<li>空腹使用藥物：
+<ul>
+<li>Azithromycin 日舒®，抗生素。</li>
+<li>Metopramide 止吐。</li>
+</ul>
+</li>
+<li>耳滴劑：側躺使用，每滴之間間隔 30 秒。
+<ul>
+<li>成人：向後上拉。</li>
+<li>兒童：向後下拉。</li>
+</ul>
+</li>
+<li>都寶寶、胖胖魚等：兒童太小不會吸，通常不使用此類藥物。（10 歲以上才使用。）</li>
+<li>哺乳用藥：可查詢 <a href="https://www.ncbi.nlm.nih.gov/books/NBK501922/">LactMed</a>。</li>
+</ul>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">藥物不會分泌至乳汁：安全。
+</span></span><span class="line"><span class="cl">藥物會分泌至乳汁：停止哺乳，直至藥品服用完畢。（查詢藥物 PK，等 5-7 個 T1/2 再開始使用。）
+</span></span><span class="line"><span class="cl">但停哺期間，仍可擠出乳汁（丟棄），防止因停哺而停止分泌乳汁。
+</span></span></code></pre></td></tr></table>
+</div>
+</div><ul>
+<li>CMV 巨細胞病毒：占新生兒感染最高比例。
+<ul>
+<li>症狀：出血性腹瀉、子宮內胎兒發展遲緩、聽力受損。</li>
+<li>檢測：
+<ul>
+<li>產前：羊水液、MRI。</li>
+<li>產後：血液、尿液。</li>
+</ul>
+</li>
+<li>先天性：Primary，透過胎盤傳染，感染風險較高、較嚴重。</li>
+<li>後天性：Secondary，經哺乳感染，母體抵抗力較強。</li>
+<li>感染風險較高族群：非白人、社經地位低、早產兒、新生兒 ICU。</li>
+<li>85-90% 之新生兒感染無症狀。</li>
+<li>10-15% 有症狀：小頭症、體重輕、聽力受損、黃疸。</li>
+<li>目前無疫苗，且感染症狀不明顯。</li>
+<li>病理：CMV 感染 -&gt; 影響 Cytokine（Chemokine CMP-1、Cytokine TNF-alpha，用於調節胎盤成長。） -&gt; 抑制 Trophoblast -&gt; 影響胎盤 -&gt; 絨毛微血管發展↓、水腫。</li>
+<li>母體感染目前無藥可治，Valganciclovir 試驗中。</li>
+<li>新生兒感染：Ganciclovir，再給 Valganciclovir。</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h3 id="特殊衛教">特殊衛教</h3>
+<ul>
+<li>Fosamax®：Alendronate sodium，雙磷酸鹽類，抑制破骨細胞，治療骨鬆，QW 使用，須空腹配服一大杯水，服用完上半身直立至少半小時。
+<ul>
+<li>避免刺激食道。</li>
+<li>下顎骨壞死併發症（Osteonecrosis of jaw）。</li>
+</ul>
+</li>
+<li>NTG 衛教：使用時機，舌下、五分鐘一次，原罐避光保存、怕高溫，開封半年換新。<br>
+（偏遠地區可建議一次無效即就醫，爭取時間。）</li>
+<li>Statin 類：經 CYP450 代謝（除 Pravastatin 由 Sulfation 代謝），有肌毒性、橫紋肌溶解（Lab data 可見 CK 與 Myoglobin 上升）。</li>
+<li>Bisacodyl：緩瀉劑，<strong>不可磨粉</strong>，有穿腸風險。（管灌病患改用塞劑）</li>
+<li>Cimetidine 併用 Metformin？留意低血糖，Cimetidine 會抑制藥物代謝（增強藥效）。</li>
+<li>Nystatin：口服生可用率差，多外用，治療口腔念珠菌感染，用含的。<br>
+（幼兒不會含：以棉花棒或紗布沾取塗抹。）</li>
+<li>Acetylcystein 發泡錠：若使用半顆，可剝半放鋁箔內，或是泡完喝半杯。</li>
+<li>Smecta®：吸附型止瀉劑，可用水或果汁每包泡成 50-120 ml，與其他藥品間隔 2 小時，TID 服用，<strong>沒有電解質功能</strong>。</li>
+<li>Beta agonist
+吸入劑：Berotec®、Ventolin®。</li>
+</ul>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">緊急緩解用，應隨身攜帶。
+</span></span><span class="line"><span class="cl">含推進劑，不可放高溫車上。
+</span></span><span class="line"><span class="cl">使用後若無效，每 20 分鐘可使用一次，第三次無效則就醫。
+</span></span><span class="line"><span class="cl">若一下子就失效，最多可重複使用 8 次。
+</span></span></code></pre></td></tr></table>
+</div>
+</div><ul>
+<li>含類固醇吸入劑多不會長期使用，3-6 個月病況穩定後，可改用 Beta agonist 與生活控制。</li>
+<li>喉噴劑：局麻、止痛。通常 6 歲以下不使用。<br>
+（若用於 1 歲以下，常是腸病毒造成之喉破，飯前使用減輕痛楚。）</li>
+<li>經皮吸收之賀爾蒙藥物避免塗於生殖部位。</li>
+<li>月經能否使用陰道塞劑？不需停用。</li>
+<li>Benzodiazepines 類藥物頻次為 HS 時，可能適應症為解痙（夜痙），先詢問再回答，勿斷定是助眠用。</li>
+<li>鐵劑：飯前吸收較好，但改飯後可減少副作用不適。
+<ul>
+<li>副作用主要為腸胃問題，腹瀉、便秘皆可能發生。</li>
+<li>糞尿變色。</li>
+<li>不可與乳製品併服。</li>
+<li>與制酸劑、鈣片分開服用（間隔 2 小時）。</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h1 id="醫院筆記">醫院筆記</h1>
+<h2 id="aids">AIDS</h2>
+<ul>
+<li>母子垂直感染發生率約 50%~80%，但經有效措施可降至 8%。</li>
+</ul>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">AIDS 抗病毒藥物：NRTIs、NNRTIs、PIs、Integrase inhibitor、Fusion inhibitor。
+</span></span><span class="line"><span class="cl">通常是（NRTIs x2）+（NNRTIs x1）or（PIs x1）or（Integrase x1）or（Fusion inhibitor x1） 
+</span></span></code></pre></td></tr></table>
+</div>
+</div><ul>
+<li>如何降低垂直感染機會？懷孕 14 周後給予 HARRT。</li>
+</ul>
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #a94442; background-color: #f2dede; border-color: #ebccd1;">
+選用沒有致畸胎性之藥物。
+</div>
+<ul>
+<li>目標是降低母體病毒量至 &lt;1000 copies/ml。</li>
+<li>若懷孕 36 周時無法降低病毒量至目標值以下，或感染後至懷孕起超過 36 周，且未曾使用 HARRT，則於 38 周時剖腹產。</li>
+<li>產後<strong>不可</strong>哺乳。</li>
+</ul>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left">孕婦</th>
+          <th style="text-align: left">嬰兒</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left">ZDV 2 mg/kg IV bolus，<br>then 1 mg/kg/hr IV 直到分娩結束。</td>
+          <td style="text-align: left">口服 ZDV 2 mg/kg QID 6 周。</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">開始產痛口服 ZDV 600 mg + 3TC 150 mg BID。</td>
+          <td style="text-align: left">口服 ZDV 4 mg/kg + 3TC 2 mg/kg BID 7 天。</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">開始產痛口服 NVP 200 mg。</td>
+          <td style="text-align: left">口服 NVP 2 mg/kg。</td>
+      </tr>
+  </tbody>
+</table>
+<p>若服用 NVP 後不到一小時即生產，則嬰兒盡快口服 NVP，48-72 hr 後再給予一劑。<br>
+<font size=2>*ZDV=Zidovudine、3TC=Lamivudine、NVP=Nevirapine</font></p>
+<hr>
+<h2 id="新型口服抗凝血劑-noac">新型口服抗凝血劑 NOAC</h2>
+<ul>
+<li>Direct Thrombin inhibitor：Dabigatran</li>
+</ul>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">Dabigatran 不經 CYP450 代謝，由腎臟代謝。
+</span></span></code></pre></td></tr></table>
+</div>
+</div><ul>
+<li>Xa inhibitor：Rivaroxaban、Apixaban、Edoxaban</li>
+</ul>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-gdscript3" data-lang="gdscript3"><span class="line"><span class="cl"><span class="n">Rivaroxaban</span> <span class="mi">1</span><span class="o">/</span><span class="mi">3</span> <span class="err">由腎代謝，</span><span class="mi">2</span><span class="o">/</span><span class="mi">3</span> <span class="err">由</span> <span class="mi">3</span><span class="n">A4</span> <span class="err">與</span> <span class="mi">2</span><span class="n">J2</span> <span class="err">代謝。</span>
+</span></span><span class="line"><span class="cl"><span class="n">Apixaban</span> <span class="err">主要由</span> <span class="mi">3</span><span class="n">A4</span> <span class="err">代謝。</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p><font size=2>NOAC 主要用於非瓣膜引起之 AF。</font></p>
+<ul>
+<li>Praxbind®：Idarucizumab，專一性單株抗體，對 Dabigatran 有高度親和力。</li>
+<li>若出血，先局部止血，NOAC 停 1~2 個劑量（內視鏡前亦同）。</li>
+</ul>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">Duration 約 24 hr，分解後不再 Bind 住 Dabigatran，不影響凝血功能。
+</span></span><span class="line"><span class="cl">24 hr 後若需使用可再給予。
+</span></span><span class="line"><span class="cl">經肝分解、腎排除，不需調整劑量。
+</span></span></code></pre></td></tr></table>
+</div>
+</div><div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+目前尚無孕婦與兒童之安全性之報告。
+</div>
+<ul>
+<li>Case：病患腦中風到院：<br>
+詢問最後一次服用 Dabigatran 之時間，若已超過 12 hr，且凝血功能正常^*^，可給予 t-PA 溶解血栓。<br>
+<font size=2>*測 PTT、aPTT，但耗費時間長，易超過黃金 3 hr，故常直接給予 Dabigatran 再給 t-PA。</font></li>
+</ul>
+<hr>
+<h2 id="洗腎">洗腎</h2>
+<ul>
+<li>EPO（Erythropoietin）不足。
+<ol>
+<li>慢性發炎，刺激造成 Hepcidin 增加，鐵吸收進而減少。</li>
+<li>缺鐵。</li>
+<li>缺蛋白質。</li>
+</ol>
+</li>
+</ul>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">CKD w/o HD，Hb &lt; 10 g/dl 可用 ESA。
+</span></span><span class="line"><span class="cl">CKD w/ HD，Hb 9-10 g/dl 可用 ESA。
+</span></span><span class="line"><span class="cl">Target is Hb &gt;11.5 g/dl。
+</span></span></code></pre></td></tr></table>
+</div>
+</div><div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #31708f; background-color: #d9edf7; border-color: #bce8f1;">
+EPO =/= ESA<br>
+EPO = 促紅細胞生成素 Erythropoietin，由腎臟產生，用於製造紅細胞。<br>
+ESA = 促紅細胞生成素刺激劑 Erythropoietin-Stimulating Agents，通常用於患有長期腎臟疾病和貧血的人（man-made version of natural erythropoietin）。
+</div>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left"></th>
+          <th style="text-align: left">Epoetin alpha</th>
+          <th style="text-align: left">Epoetin beta</th>
+          <th style="text-align: left">Darbepoetin alpha</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left">商品名</td>
+          <td style="text-align: left">Eprex®</td>
+          <td style="text-align: left">Recormon®</td>
+          <td style="text-align: left">NESP®</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">T<sub>1/2</sub></td>
+          <td style="text-align: left">IV 4-11 hr<br>SC 19-25.3 hr</td>
+          <td style="text-align: left">IV 8.8-10.4 hr<br>SC 24 hr</td>
+          <td style="text-align: left">IV 18-25.3 hr<br>SC 48.8 hr</td>
+      </tr>
+  </tbody>
+</table>
+<ul>
+<li>Roxadastat®，HIF-PH inhibitors，穩定缺氧誘導因子，進而刺激 EPO 的合成。</li>
+<li>Pure Red-cell Aplasia（PRCA），純紅血球生成不良，少數的病患在使用 EPO 後，出現中和紅血球生成素的抗體（anti-EPO antibody）。</li>
+<li>補充：
+<ol>
+<li>Folic acid</li>
+<li>Vit. B<sub>12</sub>（素食者尤缺，通常洗腎完口服）</li>
+<li>Fe</li>
+<li>通常不建議自行補充 Ca、Vit.，脂溶性藥物會堆積，洗腎無法處理。</li>
+</ol>
+</li>
+</ul>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">Fe 目標：
+</span></span><span class="line"><span class="cl">HD-CKD：Serrum Ferrintin &gt; 200，TSAT &gt; 20%
+</span></span><span class="line"><span class="cl">nonHD-CKD：Serrum Ferrintin &gt; 100，TSAT &gt; 20%
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p><font size=2>TSAT=Transferrin Saturation</font></p>
+<ul>
+<li>洗腎共病：
+<ol>
+<li>高血鉀：Loop diuretics。限制鉀攝取：香蕉、楊桃、哈密瓜、橘子。</li>
+<li>高血磷：降磷劑。</li>
+</ol>
+</li>
+</ul>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">Alugel：Al(OH)3，含鋁致失智，現已少用。
+</span></span><span class="line"><span class="cl">Lanthanum carbonate
+</span></span><span class="line"><span class="cl">Calcium acetate
+</span></span><span class="line"><span class="cl">Calcium carbonate
+</span></span><span class="line"><span class="cl">Sevelamer hydrochloride or carbonate：tab or gel，吸附性樹脂。
+</span></span></code></pre></td></tr></table>
+</div>
+</div><div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+iPTH > 375 or P x Ca > 70，不建議用鈣來降磷。<br>
+（iPTH 正常 75）
+</div>
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #31708f; background-color: #d9edf7; border-color: #bce8f1;">
+・ Calcium<br>
+  &emsp;。 飯中：降磷<br>
+  &emsp;。 飯後：補鈣<br>
+・ Potassium citrate：用於尿路結石，補鉀為 off-lable use。<br>
+・ 一般 KCL 一支可補 2.54 mEq 的鉀，受限於給藥途徑容忍度：<br>
+  &emsp;。 周邊：濃度 < 40 mEq/l、流速 < 20 mEq/hr，否則易周邊靜脈炎。<br>
+  &emsp;。 口服：腸胃可容忍 120 mEq。
+</div>
+<ul>
+<li>Minoxidil：用於洗腎病患之高血壓。K<sup>+</sup> channel opener，亦可治療雄性禿。</li>
+</ul>
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #a94442; background-color: #f2dede; border-color: #ebccd1;">
+有皮膚穿透性、致畸胎性，不上包藥機。
+</div>
+<hr>
+<h2 id="類固醇強弱">類固醇強弱</h2>
+<p><a href="https://i.imgur.com/9jc7yGi.jpg">Potency chart</a></p>
+<hr>
+<h2 id="菜花">菜花</h2>
+<ul>
+<li>Podophyllotoxin：Wart Del 汰疣凝®。連續 3 天 BID 並停用 4 天，最多使用 1 個月。</li>
+<li>Polyphenon E：Veregen®，局部外用植物用藥，機轉未明。TID 最多使用 4 個月。</li>
+<li>Imiquimod：Aldara®，免疫調節劑。TIW 使用，6-10 hr 後要洗掉，最多使用 4 個月。<br>
+（類似抗病毒，可連續使用 3 天並停用 4 天，或是 QOD 使用。）</li>
+</ul>
+<hr>
+<h2 id="賀爾蒙製劑">賀爾蒙製劑</h2>
+<ul>
+<li>有心肌梗塞風險，中風病史者慎用，有 DVT 風險。</li>
+<li>副作用：噁心、不適、不明原因之陰道出血（停藥回診）。</li>
+<li>多由肝代謝，肝病患者不用。</li>
+<li>曾有乳癌、子宮內膜癌者不用。</li>
+<li>致癌？長期使用 3-5 年才有可能。<br>
+告知為何要吃（停經症狀：熱潮紅、心悸、睡不好、盜汗），提高順從性完成療程。<br>
+且醫院會持續檢查，調整劑量，無須過度擔心。</li>
+</ul>
+<blockquote>
+<hr></blockquote>
+<ul>
+<li>雌激素：刺激子宮內膜，異常增生，長期致子宮內膜癌。</li>
+<li>黃體素：可拮抗雌激素之刺激作用，避免子宮內膜癌變。
+<ul>
+<li>沒有黃體素參與之子宮內膜，微血管末端螺旋不足，穩定差、易出血。</li>
+</ul>
+</li>
+<li>HRT 賀爾蒙替代療法：改善停經症狀。</li>
+</ul>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">子宮已切除：可單用雌激素。（沒有子宮內膜可受刺激）
+</span></span><span class="line"><span class="cl">子宮未切除：需併用黃體素。（保護子宮內膜）
+</span></span></code></pre></td></tr></table>
+</div>
+</div><div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #a94442; background-color: #f2dede; border-color: #ebccd1;">
+但 HRT 仍有致靜脈血栓與乳癌之風險。
+</div>
+<ul>
+<li>HRT 藥物數量不同：</li>
+</ul>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">21 顆：常用於還有月經，模擬一個月停用 7 天。
+</span></span><span class="line"><span class="cl">28 顆：常用於已停經。（但有的藥物已有設計 7 天 Placebo。）
+</span></span></code></pre></td></tr></table>
+</div>
+</div><ul>
+<li>無排卵性之功能失調性出血：佔多數，主因為無黃體抑制致內膜過度生長，基質不穩、脆弱、易出血。
+<ul>
+<li>可考慮使用黃體素製劑。</li>
+</ul>
+</li>
+<li>子宮內膜異位：
+<ul>
+<li>Visanne®：異位寧，黃體素製劑。</li>
+<li>Mirena®：密蕊娜，置於子宮內，亦可避孕及治療經血過多，黃體素製劑。</li>
+<li>Gestrinone®：Dimetriose，抑制卵巢排卵，排卵停止後子宮內膜也應停止成長，BIW 於月經第 1、4 天使用；或是 Q3D 使用。</li>
+<li>Danazol®：抑制 FSH、LH，造成停經，BID or TID 使用，具雄性化作用、多毛、體重上升，現已少用。</li>
+</ul>
+</li>
+<li>Clomiphene：排卵劑，於月經第 5 天開始 QD 或 BID 使用，剛好 10 天時排卵。</li>
+</ul>
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #31708f; background-color: #d9edf7; border-color: #bce8f1;">
+用於男性屬 off-lable use，促進促性腺激素的分泌，改善精液品質。健保不給付。
+</div>
+<hr>
+<h2 id="偏頭痛">偏頭痛</h2>
+<ul>
+<li>急性發作：
+<ul>
+<li>Sumatriptan：商品名 Imigrain®，最多 300 mg/day，具致畸胎性。</li>
+<li>Ergotamine：
+<ul>
+<li>1 mg/tab，急性發作時 2# STAT，未改善每 30 分鐘 1#，最多 6#/day，最多 10#/week。</li>
+<li>常與 Caffeine 複方，有血管收縮、增效的作用。</li>
+<li>注意有子宮收縮效果，懷孕禁用。</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+・ Sumatriptan 轉換至 Ergotamine：間隔至少 6 小時。<br>
+・ Ergotamine 轉換至 Sumatriptan：間隔至少 24 小時。<br>
+・ 以上兩種藥皆用於急性發作，不可用於長期預防，亦不可同時使用。
+</div>
+<h2 id="骨質疏鬆">骨質疏鬆</h2>
+<ul>
+<li>Bisphosphate 雙磷酸鹽類：下顎骨壞死。</li>
+</ul>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left">骨癌、高血鈣</th>
+          <th style="text-align: left">骨鬆</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left">Clodronate</td>
+          <td style="text-align: left">Alendronate <em>QW</em></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Pamidronate <em>IVF</em></td>
+          <td style="text-align: left"><strong>Fosamax®</strong> <em>QW</em><br>（Alendronate + Calecalciferol）</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Ibandronic acid <strong>Bondronate®</strong></td>
+          <td style="text-align: left">Ibandronic acid <em>IV Q3M</em> <strong>Bonviva®</strong></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Zoledronic acid <em>4mg IVF</em> <strong>Zometa®</strong></td>
+          <td style="text-align: left">Zoledronic acid <em>5mg IVF Q12M</em> <strong>Aclasta®</strong></td>
+      </tr>
+  </tbody>
+</table>
+<ul>
+<li>RANKL inhibitor：Denosumab</li>
+</ul>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left">骨癌、高血鈣</th>
+          <th style="text-align: left">骨鬆</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left">Denosumab <em>120mg Q4W</em> <strong>XGEVA 癌骨瓦®</strong></td>
+          <td style="text-align: left">Denosumab <em>60mg Q6M</em> <strong>Prolia 保骼麗®</strong></td>
+      </tr>
+  </tbody>
+</table>
+<ul>
+<li>
+<p>Teriparatide：Forteo 骨穩®，副甲狀腺素類似物，增加成骨細胞活性及數量，促進骨生長。</p>
+</li>
+<li>
+<p>停經後骨鬆，無骨折：給 SERMs（Selective estrogen receptor modulators），Raloxifene、Tamoxifene。</p>
+</li>
+</ul>
+<hr>
+<h2 id="特殊調劑">特殊調劑</h2>
+<h3 id="共同">共同</h3>
+<ul>
+<li>醫院空調：ISO Class 7（FS Class 10000）。</li>
+<li>TPN：
+<ul>
+<li>清淨室：ISO Class 7。</li>
+<li>調配台：ISO Class 5，風速 90 ft/min，直徑 0.3 um 過濾率達 99.97%。</li>
+</ul>
+</li>
+<li>化療：
+<ul>
+<li>清淨室：ISO Class 8。</li>
+<li>調配台：ISO Class 5。</li>
+<li>生物安全櫃 BSC Class 2 Type B2。<br>
+細胞毒性 Cytotoxin 可藉由呼吸吸入或皮膚接觸。</li>
+</ul>
+</li>
+<li>換氣頻率：30 次/hr。</li>
+<li>ISO Class – 3 = FS Class 之十次方。</li>
+</ul>
+<h3 id="tpn">TPN</h3>
+<ul>
+<li>分為：Hepatic、Peripheral、Renal、Standard、Neonate PN、Newborn start PN。</li>
+<li>內含 Dextrose、Amino acid、脂肪乳劑、Vit.、微量元素、電解質、水。
+<ol>
+<li>胺基酸：腎代謝，故 ESRD 患者只給必需胺基酸。肝功能不佳者則不給支鏈、芳香族胺基酸。</li>
+<li>補磷：最佳是磷酸鈉，但已停產，改用磷酸鉀。</li>
+</ol>
+</li>
+<li>磷鈣沉澱：
+<ul>
+<li>胺基酸越高，磷鈣相容度越高。</li>
+<li>糖越高，磷鈣相容度越低。</li>
+<li>溫度越高，磷鈣相容度先低後高。</li>
+</ul>
+</li>
+</ul>
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #31708f; background-color: #d9edf7; border-color: #bce8f1;">
+最好使用有機磷、有機鈣，較不易沉澱，但是價格高，與無機差在 K<sub>SP</sub> 解離率。
+</div>
+<ul>
+<li>商業配方：電解質已加在胺基酸內，周邊與中央品項可能相似，分開存放防拿錯。</li>
+<li>TPN 為高警訊藥品，常見併發症：
+<ul>
+<li>機械性：氣胸、血胸。</li>
+<li>感染性：無菌操作、尖端培養。</li>
+<li>代謝性：高血糖、電解質不平衡、膽汁積鬱。</li>
+</ul>
+</li>
+<li>微量元素 Trace：鉻、銅、錳、鋅、硒（唯一每天給之微量元素）。</li>
+</ul>
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #31708f; background-color: #d9edf7; border-color: #bce8f1;">
+通常給予 TPN 三周後監測，Cu、Zn 低下才給 Trace，且除了 Cu、Zn 之外其他測不到。若 Zn 低下可單獨給 Zn，其餘低下則直接給 Trace。
+</div>
+<ul>
+<li>TPN 配置順序：磷 -&gt; 胺基酸（具兩性結構，可安定電解質） -&gt; 電解質 -&gt; &hellip; -&gt; 鈣。</li>
+<li>0.9% NaCl 等滲：9g NaCl / 1L H<del>2</del>O -&gt; 其中 9g NaCl 之莫爾濃度為 9/58.5（分子量 58.5）= 0.1538，即在 1L H<del>2</del>O 中之滲透壓為 0.1538*2（當量）/L = 0.307 Osm/L = 307 mOsm/L。</li>
+</ul>
+<hr>
+<h1 id="零散知識">零散知識：</h1>
+<ul>
+<li>Aggrenox®：用於減少腦中風病人之復發。
+<ul>
+<li>Dipyridamole：抑制 Adenosine 攝取，致血管擴張。</li>
+<li>Aspirin：抗血小板。</li>
+</ul>
+</li>
+<li>Baclofen 為一肌肉鬆弛劑，可用於腦外科（腦創傷之腦內高壓之嚴重痙攣）。</li>
+</ul>
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #a94442; background-color: #f2dede; border-color: #ebccd1;">
+用於老人可能造成譫妄症。  
+</div>
+<ul>
+<li>Mefenamic acid：Ponstan®，NSAID，直肛科 2# BID 用於痔瘡開刀，可抗發炎、消腫（腫會造成便意）。</li>
+<li>Indomethacin：NSAID。
+<ul>
+<li>痛風急性期止痛。</li>
+<li>可抑制 PGE 合成，抑制子宮收縮。</li>
+<li>1 mg 針劑：小兒動脈閉鎖不全。</li>
+</ul>
+</li>
+<li>Celecoxib：COX-2 inhibitor 類藥物，可防癌細胞轉移（減少癌細胞與血管壁之黏附力）。</li>
+<li>Leuplin depot®：Leuprorelin，LH-RH 相似，用於前列腺癌、子宮內膜異位、中樞性性早熟症、子宮肌瘤引起之經血過多及貧血而預計進行手術切除者、停經前乳癌。</li>
+<li>Pegylated Interferon alfa-2a：治療慢性 B 肝、慢性 C 肝，抑制病毒於細胞中繁殖、抑制細胞增殖、免疫調節。<br>
+常有 flu-like symptoms，會搭配 Acetaminophen。</li>
+<li>C 肝用藥：Paclatasvir、Asunaprevir，常用 14 天。</li>
+<li>Ruxolitinib：用於骨隨纖維瘤。</li>
+<li>Tocopherol®：即 Vit.E，用於末梢血管循環障礙時健保有給付。（普通 Vit. 健保不給付）</li>
+<li>Deferasirox®：促進鐵於糞便中的排除，治療地中海型貧血因長期輸血造成的鐵堆積。</li>
+<li>Ketosteril®：複方胺基酸補充。</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>貼布</title>
+      <link>http://localhost:1313/posts/2025/04/medical-patch/</link>
+      <pubDate>Sat, 26 Apr 2025 23:08:29 +0800</pubDate>
+      <guid>http://localhost:1313/posts/2025/04/medical-patch/</guid>
+      <description>&lt;h2 id=&#34;材質&#34;&gt;材質&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;油性貼布：以樹脂當基劑，厚度較薄，黏性強，但製造過程所使用的有機溶劑，易使人於黏貼時產生過敏反應。&lt;/li&gt;
+&lt;li&gt;水性貼布：以高分子聚合物當基劑，含水分高，厚度較厚，不容易產生過敏反應，但黏性較差，易脫落。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;成分&#34;&gt;成分&lt;/h2&gt;
+&lt;h3 id=&#34;中藥&#34;&gt;中藥&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;冬綠油：水楊酸鹽，消炎止痛。&lt;/li&gt;
+&lt;li&gt;辣椒素：耗盡痛覺神經傳導物質 Substance-P，阻斷疼痛訊息傳遞。&lt;/li&gt;
+&lt;li&gt;薄荷：興奮中樞神經系統，使皮膚毛細血管擴張，產生發汗作用。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div style=&#34;padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;&#34;&gt;
+中藥貼布成分較複雜，若是孕婦使用，建議經醫師評估過後，挑選單方的西藥貼布較適合。
+&lt;/div&gt;
+&lt;h3 id=&#34;西藥&#34;&gt;西藥&lt;/h3&gt;
+&lt;p&gt;多為非類固醇消炎止痛藥。&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<h2 id="材質">材質</h2>
+<ul>
+<li>油性貼布：以樹脂當基劑，厚度較薄，黏性強，但製造過程所使用的有機溶劑，易使人於黏貼時產生過敏反應。</li>
+<li>水性貼布：以高分子聚合物當基劑，含水分高，厚度較厚，不容易產生過敏反應，但黏性較差，易脫落。</li>
+</ul>
+<h2 id="成分">成分</h2>
+<h3 id="中藥">中藥</h3>
+<ul>
+<li>冬綠油：水楊酸鹽，消炎止痛。</li>
+<li>辣椒素：耗盡痛覺神經傳導物質 Substance-P，阻斷疼痛訊息傳遞。</li>
+<li>薄荷：興奮中樞神經系統，使皮膚毛細血管擴張，產生發汗作用。</li>
+</ul>
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+中藥貼布成分較複雜，若是孕婦使用，建議經醫師評估過後，挑選單方的西藥貼布較適合。
+</div>
+<h3 id="西藥">西藥</h3>
+<p>多為非類固醇消炎止痛藥。</p>
+<ul>
+<li>依照成分的消炎能力：<br>
+Indomethacin &gt; Diclofenac &gt; Flurbiprofen = Ketoprofen &gt; Methyl Salicylate。</li>
+<li>依照成分的止痛能力：<br>
+Flurbiprofen = Ketoprofen &gt; Diclofenac &gt; Indomethacin &gt; Methyl Salicylate。</li>
+</ul>
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #a94442; background-color: #f2dede; border-color: #ebccd1;">
+Flurbiprofen 是醫師處方用藥。
+</div>
+<h2 id="注意事項">注意事項：</h2>
+<ul>
+<li>第一次使用時，使用 1~2 小時後，觀察使用部位是否出現紅、癢等過敏症狀。</li>
+<li>藥效約維持 6~8 小時，至多到 12 小時，療程依成份而定。</li>
+<li>黏貼時間過長，皮膚不透氣，易產生紅腫癢現象。</li>
+<li>有傷口的位置應避免使用，穿透性會大幅提高，紅腫發癢或發疹位置也勿用，以免症狀惡化。</li>
+</ul>
+<hr>
+<h2 id="reference">Reference</h2>
+<p><a href="https://b303094004.pixnet.net/blog/post/297622676">微笑藥師</a></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Lactate Ringer 乳酸林格氏液</title>
       <link>http://localhost:1313/posts/2025/04/lactate-ringer/</link>
       <pubDate>Mon, 21 Apr 2025 20:17:52 +0800</pubDate>
       <guid>http://localhost:1313/posts/2025/04/lactate-ringer/</guid>
-      <description>&lt;h1 id=&#34;輸注用液&#34;&gt;輸注用液&lt;/h1&gt;
-&lt;h2 id=&#34;種類&#34;&gt;種類&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;種類&#34;&gt;種類&lt;/h2&gt;
 &lt;h3 id=&#34;林格氏液ringers-solution&#34;&gt;林格氏液（Ringer’s Solution）&lt;/h3&gt;
 &lt;p&gt;Na 147 mEq/L、Cl 156 mEq/L、K 4 mEq/L、Ca 4 mEq/L&lt;br&gt;
 pH 5.8、309 mOsm/L&lt;/p&gt;
 &lt;div style=&#34;padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #3c763d; background-color: #dff0d8; border-color: #d6e9c6;&#34;&gt;
 （生理）食鹽水 + 鈣 + 鉀。&lt;br&gt;
-更符合
+組成與血漿更為接近，但價格較 N/S 高。
 &lt;/div&gt;  
 &lt;h3 id=&#34;生理食鹽水normal-saline&#34;&gt;生理食鹽水（Normal Saline）&lt;/h3&gt;
 &lt;p&gt;Na 154 mEq/L、Cl 154 mEq/L&lt;br&gt;
 pH 5.7、308 mOsm/L&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<h1 id="輸注用液">輸注用液</h1>
-<h2 id="種類">種類</h2>
+      <content:encoded><![CDATA[<h2 id="種類">種類</h2>
 <h3 id="林格氏液ringers-solution">林格氏液（Ringer’s Solution）</h3>
 <p>Na 147 mEq/L、Cl 156 mEq/L、K 4 mEq/L、Ca 4 mEq/L<br>
 pH 5.8、309 mOsm/L</p>
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #3c763d; background-color: #dff0d8; border-color: #d6e9c6;">
 （生理）食鹽水 + 鈣 + 鉀。<br>
-更符合
+組成與血漿更為接近，但價格較 N/S 高。
 </div>  
 <h3 id="生理食鹽水normal-saline">生理食鹽水（Normal Saline）</h3>
 <p>Na 154 mEq/L、Cl 154 mEq/L<br>
@@ -52,12 +993,14 @@ pH 6.7、275 mOsm/L</p>
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
 醋酸可在肌肉中被代謝，而不會造成堆積。
 </div>
+<hr>
 <h2 id="why-林格氏液">Why 林格氏液？</h2>
 <h3 id="優點">優點</h3>
 <ul>
 <li>乳酸 / 醋酸林格氏液，與生理食鹽水相比，因為多了緩衝，對於酸鹼平衡影響較小。</li>
 <li>可以補充鈣離子，在急性胰臟炎導致低血鈣的病人有治療效果。</li>
 <li>雖然微量，但乳酸可在身體中代謝產生能量。</li>
+<li>寵物：敗血性休克合併代謝性酸中毒、酮酸中毒和腹瀉引起的高血鈉，LR 是更適合的選擇。</li>
 </ul>
 <h3 id="缺點">缺點</h3>
 <ul>
@@ -71,6 +1014,7 @@ pH 6.7、275 mOsm/L</p>
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #a94442; background-color: #f2dede; border-color: #ebccd1;">
 一般林格氏液的給予並不會顯著提高血清乳酸，除非病患對乳酸的清除能力為零，且正在接受大量林格氏液輸注。
 </div>
+<hr>
 <h2 id="林格氏液與-5-葡萄糖水溶液的比較">林格氏液與 5% 葡萄糖水溶液的比較</h2>
 <ul>
 <li>雖然乳酸 / 醋酸林格氏液可以提供少量的能量，但仍遠比不過葡萄糖水溶液。</li>
@@ -88,6 +1032,9 @@ pH 6.7、275 mOsm/L</p>
 </ul>
 </li>
 </ul>
+<hr>
+<h2 id="reference">Reference</h2>
+<p><a href="https://teachingcenter1.pixnet.net/blog/post/359213998">Teachingcenter 的醫學筆記</a></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -790,8 +1737,12 @@ Black box warning：與其他適當治療相比，使用替加環素治療的死
       <link>http://localhost:1313/posts/2024/07/ios/</link>
       <pubDate>Thu, 11 Jul 2024 00:00:00 +0800</pubDate>
       <guid>http://localhost:1313/posts/2024/07/ios/</guid>
-      <description>&lt;p&gt;測試能否在 iOS 上以 &lt;a href=&#34;https://apps.apple.com/app/id896694807&#34;&gt;Working Copy&lt;/a&gt; 來寫作。&lt;/p&gt;</description>
+      <description>&lt;p&gt;測試能否在 iOS 上以 &lt;a href=&#34;https://apps.apple.com/app/id896694807&#34;&gt;Working Copy&lt;/a&gt; 來寫作。&lt;/p&gt;
+&lt;p&gt;2025-04-21 測試 Push to GitHub.io action。&lt;/p&gt;
+&lt;p&gt;2025-04-22 Test&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>測試能否在 iOS 上以 <a href="https://apps.apple.com/app/id896694807">Working Copy</a> 來寫作。</p>
+<p>2025-04-21 測試 Push to GitHub.io action。</p>
+<p>2025-04-22 Test</p>
 ]]></content:encoded>
     </item>
     <item>

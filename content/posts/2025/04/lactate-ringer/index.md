@@ -37,7 +37,7 @@ Na 147 mEq/L、Cl 156 mEq/L、K 4 mEq/L、Ca 4 mEq/L
 pH 5.8、309 mOsm/L  
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #3c763d; background-color: #dff0d8; border-color: #d6e9c6;">
 （生理）食鹽水 + 鈣 + 鉀。<br>
-更符合
+組成與血漿更為接近，但價格較 N/S 高。
 </div>  
 
 
@@ -71,8 +71,8 @@ pH 6.7、275 mOsm/L
 * 乳酸 / 醋酸林格氏液，與生理食鹽水相比，因為多了緩衝，對於酸鹼平衡影響較小。  
 * 可以補充鈣離子，在急性胰臟炎導致低血鈣的病人有治療效果。  
 * 雖然微量，但乳酸可在身體中代謝產生能量。  
+* 寵物：敗血性休克合併代謝性酸中毒、酮酸中毒和腹瀉引起的高血鈉，LR 是更適合的選擇。
 
- 
 
 ### 缺點
 * 含鈣，所以要避免沉澱的發生。  
