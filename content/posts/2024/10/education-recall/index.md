@@ -13,7 +13,6 @@ draft: false
 tags: # 自由新增
 - 海陸
 - 教召
-- 兵役
 
 isCJKLanguage: true # 是否是中文(chinese,japanese,korea) 字數判斷用
 comments: true
