@@ -94,7 +94,7 @@ params:
 
   label:
     text: "MooyJiang's Blog"
-    icon: "/images/icon.png"
+    icon: "/images/icon.webp"
     iconHeight: 35
 
   assets:
