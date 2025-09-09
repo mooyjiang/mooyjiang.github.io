@@ -1,4 +1,4 @@
-baseURL: 'http://blog.mooy.me/'
+baseURL: 'https://blog.mooy.me/'
 title: MooyJiang's Blog
 languageCode: zh-tw # 預設語系配置
 theme: hugo-PaperMod
