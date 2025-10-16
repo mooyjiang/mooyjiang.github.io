@@ -94,6 +94,15 @@ cover:
 * 藥物交互作用：EE 與 DRSP 經由 CYP3A4 代謝。  
 抗生素（Penicillin、Cephalosporines、Erythromycin、Sulfonamides、Chloramphenicol）、肺結核用藥（Rifampicin、Isoniazid）、安眠藥（Barbiturate）、愛滋病用藥（含 Ritonavir）、COVID-19 用藥 Paxlovid（含Ritonavir）、抗癲癇用藥（Carbamazepine、Phenytoin）。  
 
+## 題外話：HRT  
+* 荷爾蒙替代療法（Hormone Replacement Therapy，HRT）  
+  * 治療女性性激素分泌不足或更年期相關的症狀，需以外源激素加以補充、替代的療法。  
+  * 更年期症狀：熱潮紅、陰道萎縮、乾燥、骨質流失等，由更年期期間性激素濃度降低所引起。  
+  * 主要藥物是雌激素和黃體素。
+    * 對於擁有完整子宮的女性，通常併用黃體素與雌激素。
+    * 單用雌激素與子宮內膜增生和癌症有關，而黃體素可預防這些風險。
+    * 臨牀單用 Estromon 伊使蒙（Conjugated Estrogen 0.625mg）作為 HRT 者，可能為已摘除子宮之女性。
+
 ---
 
 ## 21 錠與 28 錠的差異？  
