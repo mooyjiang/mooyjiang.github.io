@@ -98,12 +98,29 @@ cover:
 * 荷爾蒙替代療法（Hormone Replacement Therapy，HRT）  
   * 治療女性性激素分泌不足或更年期相關的症狀，需以外源激素加以補充、替代的療法。  
   * 更年期症狀：熱潮紅、陰道萎縮、乾燥、骨質流失等，由更年期期間性激素濃度降低所引起。  
-  * 主要藥物是雌激素和黃體素。
-    * 對於擁有完整子宮的女性，通常併用黃體素與雌激素。
-    * 單用雌激素與子宮內膜增生和癌症有關，而黃體素可預防這些風險。
-    * 臨牀單用 Estromon 伊使蒙（Conjugated Estrogen 0.625mg）作為 HRT 者，可能為已摘除子宮之女性。
+  * 主要藥物是雌激素和黃體素。  
+* 藥物：
+  * 雌激素：治療療程可分為週期性或連續性。
+    * Estrade 益斯得 2mg（Estradiol Valerate）  
+    * Estromon 伊使蒙 0.625mg（Conjugated Estrogen）  
+    * Ladiol Gel 麗露凝膠（Estradiol）  
+    * Premarin Vaginal Cream 普力馬林陰道乳膏（Conjugated Estrogens）  
+  * 黃體素：  
+  保護受到雌激素刺激的子宮內膜，預防子宮內膜增生與子宮內膜惡性腫瘤。  
+  若停經之婦女擁有完整子宮，則黃體素應合併雌激素治療。  
+  若病人以低劑量經陰道雌激素改善泌尿生殖器官萎縮則無需併用黃體素治療。  
+  若病人曾接受子宮切除手術則亦無須併用黃體素治療。  
+    * Provera 普維拉錠 5 mg（Medroxyprogesterone）  
+    * Utrogestan 優潔通 100 mg（Micronized progesterone）  
+    * Mirena 蜜蕊娜子宮內給藥系統 52 mg（LNG）  
+  * 複方：  
+    * Covina 康樂娜（Estradiol 2mg + Norethisterone 1mg）  
+    * Sevina 詩維娜（12 錠藍色錠劑：Estradiol 2mg、10 錠白色錠劑：Estradiol 2mg + Norethisterone 1mg、6 錠橘色錠劑：Estradiol 1mg）  
+  * 組織選擇性雌激素活性調節劑（STEAR）：  
+    * Livial 利飛亞 2.5 mg（Tibolone）  
+* 禁忌症：罹患乳癌、子宮內膜癌、嚴重肝功能障礙、三酸甘油脂過高、靜脈栓塞，不明原因之子宮出血、子宮內膜異位症、子宮肌瘤的女性患者。
 
----
+--- 
 
 ## 21 錠與 28 錠的差異？  
 * 21 錠裝：每一顆皆為活性錠，服用完畢有 7 天的停藥期，將會有月經來的現象，等過完 7 天後再開始服用下一盒。  
@@ -194,6 +211,7 @@ cover:
 [微笑藥師](https://www.smilerx.com.tw/ulipristal_levenorgestrol_phar-smile/)  
 [微笑藥師](https://www.smilerx.com.tw/contraceptive-pill-pharsmile/)  
 [新竹臺大分院](https://www.hch.gov.tw/?aid=626&pid=35&page_name=detail&iid=1401)  
+[新竹臺大分院](https://www.hch.gov.tw/?aid=626&pid=81&page_name=detail&iid=1407)  
 [明朗身心診所](https://www.moodlight.com.tw/blog/detail/95)  
 [新竹馬偕醫院衛教資訊](https://www.hc.mmh.org.tw/upload/health/口服避孕藥簡介-吳季陶醫師.pdf)  
 [臺大醫院旅遊醫學教育訓練中心](https://travelmedicine.org.tw/information/content.asp?ID=147)  
