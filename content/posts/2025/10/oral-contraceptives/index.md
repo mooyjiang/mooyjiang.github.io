@@ -40,7 +40,7 @@ cover:
 劑量越高越容易產生副作用，如噁心、嘔吐、不適感、情緒起伏等狀況。  
 * 黃體素：  
   * 第一代：Norethindrone acetate、Ethynodiol diacetate、Lynestrenol、Norethynodre。  
-  * 第二代：Levonorgestrel（簡稱 LNG）  
+  * 第二代：Levonorgestrel（LNG）  
     * 低劑量便能有避孕效果。
     * 由 Testosterone 的結構修飾而來，故有較強的雄性化作用，容易導致痤瘡及多毛症等症狀。  
   * 第三代：Desogestrel、Gestodene、Norgestimate。  
