@@ -55,7 +55,7 @@ cover:
 
 
 ## 表格比較  
-| 黃體素代數<br>---------------<br>雌激素劑量 | １st<br>Norethindrone | 2nd<br>Levonorgestrel (LNG) | 3rd<br>Desogestrel (DSG)<br>Gestodene | 4th<br>Drospirenone (DRSP)<br>Cyproterone (CPA) |
+| 黃體素代數<br>------------------<br>雌激素劑量 | 1st<br>Norethindrone | 2nd<br>Levonorgestrel (LNG) | 3rd<br>Desogestrel (DSG)<br>Gestodene | 4th<br>Drospirenone (DRSP)<br>Cyproterone (CPA) |
 |---|---|---|---|---|
 | 0.02 | **美婷娜**<br>Norethindrone 10 + EE 0.02![](metina.webp) | - | **美適儂** 21+7<br>DSG 0.15 + EE 0.02![](mercilon.webp)<br>**玫麗安** 21<br>Gestodene 0.075 + EE 0.02![](meliane.webp)<br>**愛月定錠** 21<br>Gestodene 0.075 + EE 0.02![](lindynette20.webp) | **悅姿** 24+4<br>DRSP 3 + EE 0.02![](yaz.webp)<br>**愛薇** 24+4<br>DRSP 3 + EE 0.02![](gveza002.webp) |
 | 0.03 | - |**欣無妊** 21<br>LNG 0.15 + EE 0.03![](microgynon.webp)<br>**家計 2 號** 21+7<br>LNG 0.15 + EE 0.03![](winstop30.webp) | **祈麗安** 21<br>Gestodene 0.075 + EE 0.03![](gynera.webp) | **悅己** 21<br>DRSP 3 + EE 0.03![](yasmin.webp)<br>**愛己** 21<br>DRSP 3 + EE 0.03![](gveza003.webp) |
