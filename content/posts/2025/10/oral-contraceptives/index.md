@@ -106,6 +106,7 @@ Drospirenone（DRSP）仍然會影響血液凝集，具有血栓風險，同時�
 ---
 
 ## 催經與延經  
+![](menstrualcycle.webp)
 * 排卵後（真正的催經）：正常排卵後，身體等待受孕的階段（黃體期）所進行的干預。  
   * 原理：  
     * 排卵後，卵巢會形成黃體，開始分泌大量的黃體素。可穩定並增厚子宮內膜，為可能著床的受精卵做準備。  
@@ -153,3 +154,4 @@ Drospirenone（DRSP）仍然會影響血液凝集，具有血栓風險，同時�
 [明朗身心診所](https://www.moodlight.com.tw/blog/detail/95)  
 [新竹馬偕醫院衛教資訊](https://www.hc.mmh.org.tw/upload/health/口服避孕藥簡介-吳季陶醫師.pdf)  
 [臺大醫院旅遊醫學教育訓練中心](https://travelmedicine.org.tw/information/content.asp?ID=147)  
+[Wikipedia](https://zh.wikipedia.org/zh-tw/月經週期)
