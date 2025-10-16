@@ -50,7 +50,7 @@ cover:
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #a94442; background-color: #f2dede; border-color: #ebccd1;">
 涉及個人隱私的部分，如精神疾病、性病、AIDS 等，不可電話諮詢，<br>
-請**本人**到現場，確認完身分再行諮詢。
+請<b>本人</b>到現場，確認完身分再行諮詢。
 </div>
 
 * 藥袋通常只會標示發生率 >10% 之 ADR。  
