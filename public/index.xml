@@ -6,7 +6,7 @@
     <description>Recent content on MooyJiang&#39;s Blog</description>
     <generator>Hugo -- 0.151.0</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 16 Oct 2025 22:41:46 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 16 Oct 2025 23:06:43 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>口服避孕藥</title>
@@ -44,7 +44,8 @@
 &lt;li&gt;抗雄性化作用（Anti-androgenic）：痤瘡、皮膚出油、毛孔阻塞的狀況減少，故部分藥品亦被核准用於同時有避孕需求的青春痘治療用途。&lt;br&gt;
 （CPA 擁有最強的抗痤瘡能力。）&lt;/li&gt;
 &lt;li&gt;抗礦物皮質酮作用（Anti-mineralocorticoid）：改善水腫現象。&lt;br&gt;
-（DRSP 從 Spironolactone 的結構修飾而來，可抗水腫。）&lt;/li&gt;
+（DRSP 從 Spironolactone 的結構修飾而來，可抗水腫。）&lt;br&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/2025/10/oral-contraceptives/progesterone.webp&#34;&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -134,7 +135,8 @@
 <li>抗雄性化作用（Anti-androgenic）：痤瘡、皮膚出油、毛孔阻塞的狀況減少，故部分藥品亦被核准用於同時有避孕需求的青春痘治療用途。<br>
 （CPA 擁有最強的抗痤瘡能力。）</li>
 <li>抗礦物皮質酮作用（Anti-mineralocorticoid）：改善水腫現象。<br>
-（DRSP 從 Spironolactone 的結構修飾而來，可抗水腫。）</li>
+（DRSP 從 Spironolactone 的結構修飾而來，可抗水腫。）<br>
+<img loading="lazy" src="/posts/2025/10/oral-contraceptives/progesterone.webp"></li>
 </ul>
 </li>
 </ul>
@@ -196,9 +198,19 @@
 <ul>
 <li>愛莉莎 24 + 4。</li>
 <li>DRSP 3 + E4 15。</li>
-<li>含新型的雌激素 Estetrol (Estetrol monohydrate，E4)，較不影響凝血功能（血栓風險降低）、減少對乳房刺激（乳癌風險較低），且其代謝方式與大部分藥品不同（不經由 CYP3A4 代謝），藥物食物交互作用少。<br>
-Drospirenone（DRSP）仍然會影響血液凝集，具有血栓風險，同時也會經由 CYP3A4 代謝，仍然要注意藥物食物交互作用。</li>
+<li>含新型的雌激素 Estetrol (Estetrol monohydrate，E4)：
+<ul>
+<li>較不影響凝血功能（血栓風險降低）。</li>
+<li>減少對乳房刺激（乳癌風險較低）。</li>
+<li>代謝方式與大部分藥品不同（不經由 CYP3A4 代謝），藥物食物交互作用少。</li>
 </ul>
+</li>
+<li>Drospirenone（DRSP）仍然會影響血液凝集，具有血栓風險，同時也會經由 CYP3A4 代謝，仍然要注意藥物食物交互作用。</li>
+<li>停藥 16 日可恢復排卵功能。</li>
+<li>因減少內膜厚度，可減少痛經發生。</li>
+</ul>
+<hr>
+<p><img loading="lazy" src="/posts/2025/10/oral-contraceptives/miscellaneous_1.webp"></p>
 <hr>
 <h2 id="副作用">副作用</h2>
 <ul>
@@ -209,6 +221,8 @@ Drospirenone（DRSP）仍然會影響血液凝集，具有血栓風險，同時�
 此外，心血管高風險族群，例如抽菸、肥胖、三高病史，合併使用事前避孕藥，會額外增加心血管事件的產生，又以抽菸且大於 35 歲女性需要特別注意。</li>
 <li>乳癌：<br>
 傳統的雌激素（Ethinyl estradiol）會作用於乳房的上皮細胞，若有乳癌家族史的高風險族群，則建議避開傳統的雌激素。</li>
+<li>藥物交互作用：EE 與 DRSP 經由 CYP3A4 代謝。<br>
+抗生素（Penicillin、Cephalosporines、Erythromycin、Sulfonamides、Chloramphenicol）、肺結核用藥（Rifampicin、Isoniazid）、安眠藥（Barbiturate）、愛滋病用藥（含 Ritonavir）、COVID-19 用藥 Paxlovid（含Ritonavir）、抗癲癇用藥（Carbamazepine、Phenytoin）。</li>
 </ul>
 <hr>
 <h2 id="21-錠與-28-錠的差異">21 錠與 28 錠的差異？</h2>
@@ -294,6 +308,7 @@ Drospirenone（DRSP）仍然會影響血液凝集，具有血栓風險，同時�
 <h2 id="reference">Reference</h2>
 <p><a href="https://257085.sfaa.gov.tw/knowledge_detail.php?Key=27">未成年懷孕求助網站</a><br>
 <a href="https://257085.sfaa.gov.tw/knowledge_detail.php?Key=62">未成年懷孕求助網站</a><br>
+<a href="https://www.smilerx.com.tw/contraceptive-pill-pharsmile/">微笑藥師</a><br>
 <a href="https://www.moodlight.com.tw/blog/detail/95">明朗身心診所</a><br>
 <a href="https://www.hc.mmh.org.tw/upload/health/%E5%8F%A3%E6%9C%8D%E9%81%BF%E5%AD%95%E8%97%A5%E7%B0%A1%E4%BB%8B-%E5%90%B3%E5%AD%A3%E9%99%B6%E9%86%AB%E5%B8%AB.pdf">新竹馬偕醫院衛教資訊</a><br>
 <a href="https://travelmedicine.org.tw/information/content.asp?ID=147">臺大醫院旅遊醫學教育訓練中心</a><br>

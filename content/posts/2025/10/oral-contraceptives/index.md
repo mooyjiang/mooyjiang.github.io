@@ -51,6 +51,7 @@ cover:
     （CPA 擁有最強的抗痤瘡能力。）  
     * 抗礦物皮質酮作用（Anti-mineralocorticoid）：改善水腫現象。  
     （DRSP 從 Spironolactone 的結構修飾而來，可抗水腫。）  
+![](progesterone.webp)
 
 ---
 
@@ -69,8 +70,16 @@ cover:
 ![](alyssa.webp)
 * 愛莉莎 24 + 4。  
 * DRSP 3 + E4 15。  
-* 含新型的雌激素 Estetrol (Estetrol monohydrate，E4)，較不影響凝血功能（血栓風險降低）、減少對乳房刺激（乳癌風險較低），且其代謝方式與大部分藥品不同（不經由 CYP3A4 代謝），藥物食物交互作用少。  
-Drospirenone（DRSP）仍然會影響血液凝集，具有血栓風險，同時也會經由 CYP3A4 代謝，仍然要注意藥物食物交互作用。  
+* 含新型的雌激素 Estetrol (Estetrol monohydrate，E4)：  
+  * 較不影響凝血功能（血栓風險降低）。  
+  * 減少對乳房刺激（乳癌風險較低）。  
+  * 代謝方式與大部分藥品不同（不經由 CYP3A4 代謝），藥物食物交互作用少。  
+* Drospirenone（DRSP）仍然會影響血液凝集，具有血栓風險，同時也會經由 CYP3A4 代謝，仍然要注意藥物食物交互作用。  
+* 停藥 16 日可恢復排卵功能。  
+* 因減少內膜厚度，可減少痛經發生。  
+
+---
+![](miscellaneous_1.webp)
 
 ---
 
@@ -82,6 +91,8 @@ Drospirenone（DRSP）仍然會影響血液凝集，具有血栓風險，同時�
 此外，心血管高風險族群，例如抽菸、肥胖、三高病史，合併使用事前避孕藥，會額外增加心血管事件的產生，又以抽菸且大於 35 歲女性需要特別注意。  
 * 乳癌：  
 傳統的雌激素（Ethinyl estradiol）會作用於乳房的上皮細胞，若有乳癌家族史的高風險族群，則建議避開傳統的雌激素。  
+* 藥物交互作用：EE 與 DRSP 經由 CYP3A4 代謝。  
+抗生素（Penicillin、Cephalosporines、Erythromycin、Sulfonamides、Chloramphenicol）、肺結核用藥（Rifampicin、Isoniazid）、安眠藥（Barbiturate）、愛滋病用藥（含 Ritonavir）、COVID-19 用藥 Paxlovid（含Ritonavir）、抗癲癇用藥（Carbamazepine、Phenytoin）。  
 
 ---
 
@@ -151,7 +162,8 @@ Drospirenone（DRSP）仍然會影響血液凝集，具有血栓風險，同時�
 ## Reference
 [未成年懷孕求助網站](https://257085.sfaa.gov.tw/knowledge_detail.php?Key=27)  
 [未成年懷孕求助網站](https://257085.sfaa.gov.tw/knowledge_detail.php?Key=62)  
+[微笑藥師](https://www.smilerx.com.tw/contraceptive-pill-pharsmile/)  
 [明朗身心診所](https://www.moodlight.com.tw/blog/detail/95)  
 [新竹馬偕醫院衛教資訊](https://www.hc.mmh.org.tw/upload/health/口服避孕藥簡介-吳季陶醫師.pdf)  
 [臺大醫院旅遊醫學教育訓練中心](https://travelmedicine.org.tw/information/content.asp?ID=147)  
-[Wikipedia](https://zh.wikipedia.org/zh-tw/月經週期)
+[Wikipedia](https://zh.wikipedia.org/zh-tw/月經週期)  
