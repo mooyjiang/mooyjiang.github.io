@@ -113,6 +113,26 @@ cover:
 ## 事前及事後差別  
 * 事前避孕藥：透過長期服用以預防受孕，經長時間且週期性服用低劑量的賀爾蒙（雌性素與黃體素），以抑制腦下垂體分泌黃體成長激素（LH）與濾泡刺激素（FSH），進而抑制排卵、干擾內膜生長（胚胎不易著床）、增加子宮頸黏液（精蟲不易游動），來達到避孕的效果。  
 * 事後避孕藥：為「行房事後」一次性服用的避孕藥，原理為單次服用高劑量黃體素，然後突然停止，子宮內膜就會以為黃體衰竭而造成內膜剝落（月經來潮），以阻止胚胎著床發育，來達到避孕的效果。  
+  * 第一代：Levenorgestrol，接近排卵時（LH 升高後），防護效果會降低。  
+    * 選擇性黃體素受體調節劑（Selective Progesterone Receptor Modulators，SPRMs）  
+    * 適應症：無防護性交或避孕失效後 72 小時內的緊急避孕，有效延遲排卵 3 天。  
+    * 無避孕措施的性行為後儘速服用 1.5mg，最久不超過 72 小時。  
+    * 分次服法：儘速服用 0.75mg，並於 12 小時後再服 0.75mg。  
+  * 第二代：Ulipristal，接近排卵時（LH 升高後）仍有效、防護力強。  
+    * 適應症：無防護性交或避孕失效後 120 小時內的緊急避孕，有效延遲排卵 5 天。  
+    * 無避孕措施的性行為後儘速服用 30mg。  
+![](contraceptives.webp)
+
+## 題外話：SERMs
+* 選擇性雌激素受體調節劑（Selective Estrogen Receptor Modulators，SERMs）  
+  * 第一代：Tamoxifen  
+    * 商品名：Nolvadex 諾瓦得士。  
+    * 適應症：轉移性乳癌之治療、乳癌手術後之輔助療法。  
+    * 對乳房細胞及乳癌是抑制作用，可預防乳癌復發，但對子宮是刺激作用，會增加子宮內膜病變的危險。  
+  * 第二代：Raloxifene  
+    * 商品名：Evista 鈣穩。  
+    * 適應症：預防及治療停經後婦女骨質疏鬆症。  
+    * Raloxifene 跟 Tamoxifen 都可減少乳癌的復發，不過 Raloxifene 還可以減少子宮內膜癌的發生。  
 
 ---
 
@@ -162,7 +182,9 @@ cover:
 ## Reference
 [未成年懷孕求助網站](https://257085.sfaa.gov.tw/knowledge_detail.php?Key=27)  
 [未成年懷孕求助網站](https://257085.sfaa.gov.tw/knowledge_detail.php?Key=62)  
+[微笑藥師](https://www.smilerx.com.tw/ulipristal_levenorgestrol_phar-smile/)  
 [微笑藥師](https://www.smilerx.com.tw/contraceptive-pill-pharsmile/)  
+[新竹臺大分院](https://www.hch.gov.tw/?aid=626&pid=35&page_name=detail&iid=1401)
 [明朗身心診所](https://www.moodlight.com.tw/blog/detail/95)  
 [新竹馬偕醫院衛教資訊](https://www.hc.mmh.org.tw/upload/health/口服避孕藥簡介-吳季陶醫師.pdf)  
 [臺大醫院旅遊醫學教育訓練中心](https://travelmedicine.org.tw/information/content.asp?ID=147)  

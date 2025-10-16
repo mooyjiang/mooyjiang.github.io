@@ -6,7 +6,7 @@
     <description>Recent content on MooyJiang&#39;s Blog</description>
     <generator>Hugo -- 0.151.0</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 16 Oct 2025 23:06:43 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 16 Oct 2025 23:36:29 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>口服避孕藥</title>
@@ -245,7 +245,46 @@
 <h2 id="事前及事後差別">事前及事後差別</h2>
 <ul>
 <li>事前避孕藥：透過長期服用以預防受孕，經長時間且週期性服用低劑量的賀爾蒙（雌性素與黃體素），以抑制腦下垂體分泌黃體成長激素（LH）與濾泡刺激素（FSH），進而抑制排卵、干擾內膜生長（胚胎不易著床）、增加子宮頸黏液（精蟲不易游動），來達到避孕的效果。</li>
-<li>事後避孕藥：為「行房事後」一次性服用的避孕藥，原理為單次服用高劑量黃體素，然後突然停止，子宮內膜就會以為黃體衰竭而造成內膜剝落（月經來潮），以阻止胚胎著床發育，來達到避孕的效果。</li>
+<li>事後避孕藥：為「行房事後」一次性服用的避孕藥，原理為單次服用高劑量黃體素，然後突然停止，子宮內膜就會以為黃體衰竭而造成內膜剝落（月經來潮），以阻止胚胎著床發育，來達到避孕的效果。
+<ul>
+<li>第一代：Levenorgestrol，接近排卵時（LH 升高後），防護效果會降低。
+<ul>
+<li>選擇性黃體素受體調節劑（Selective Progesterone Receptor Modulators，SPRMs）</li>
+<li>適應症：無防護性交或避孕失效後 72 小時內的緊急避孕，有效延遲排卵 3 天。</li>
+<li>無避孕措施的性行為後儘速服用 1.5mg，最久不超過 72 小時。</li>
+<li>分次服法：儘速服用 0.75mg，並於 12 小時後再服 0.75mg。</li>
+</ul>
+</li>
+<li>第二代：Ulipristal，接近排卵時（LH 升高後）仍有效、防護力強。
+<ul>
+<li>適應症：無防護性交或避孕失效後 120 小時內的緊急避孕，有效延遲排卵 5 天。</li>
+<li>無避孕措施的性行為後儘速服用 30mg。<br>
+<img loading="lazy" src="/posts/2025/10/oral-contraceptives/contraceptives.webp"></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="題外話serms">題外話：SERMs</h2>
+<ul>
+<li>選擇性雌激素受體調節劑（Selective Estrogen Receptor Modulators，SERMs）
+<ul>
+<li>第一代：Tamoxifen
+<ul>
+<li>商品名：Nolvadex 諾瓦得士。</li>
+<li>適應症：轉移性乳癌之治療、乳癌手術後之輔助療法。</li>
+<li>對乳房細胞及乳癌是抑制作用，可預防乳癌復發，但對子宮是刺激作用，會增加子宮內膜病變的危險。</li>
+</ul>
+</li>
+<li>第二代：Raloxifene
+<ul>
+<li>商品名：Evista 鈣穩。</li>
+<li>適應症：預防及治療停經後婦女骨質疏鬆症。</li>
+<li>Raloxifene 跟 Tamoxifen 都可減少乳癌的復發，不過 Raloxifene 還可以減少子宮內膜癌的發生。</li>
+</ul>
+</li>
+</ul>
+</li>
 </ul>
 <hr>
 <h2 id="催經與延經">催經與延經</h2>
@@ -308,7 +347,9 @@
 <h2 id="reference">Reference</h2>
 <p><a href="https://257085.sfaa.gov.tw/knowledge_detail.php?Key=27">未成年懷孕求助網站</a><br>
 <a href="https://257085.sfaa.gov.tw/knowledge_detail.php?Key=62">未成年懷孕求助網站</a><br>
+<a href="https://www.smilerx.com.tw/ulipristal_levenorgestrol_phar-smile/">微笑藥師</a><br>
 <a href="https://www.smilerx.com.tw/contraceptive-pill-pharsmile/">微笑藥師</a><br>
+<a href="https://www.hch.gov.tw/?aid=626&amp;pid=35&amp;page_name=detail&amp;iid=1401">新竹臺大分院</a>
 <a href="https://www.moodlight.com.tw/blog/detail/95">明朗身心診所</a><br>
 <a href="https://www.hc.mmh.org.tw/upload/health/%E5%8F%A3%E6%9C%8D%E9%81%BF%E5%AD%95%E8%97%A5%E7%B0%A1%E4%BB%8B-%E5%90%B3%E5%AD%A3%E9%99%B6%E9%86%AB%E5%B8%AB.pdf">新竹馬偕醫院衛教資訊</a><br>
 <a href="https://travelmedicine.org.tw/information/content.asp?ID=147">臺大醫院旅遊醫學教育訓練中心</a><br>
