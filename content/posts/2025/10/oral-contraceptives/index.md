@@ -47,28 +47,27 @@ cover:
     * 由二代黃體素 LNG 修飾化學結構而來，雄性化作用減弱，相較於第二代，痤瘡及水腫的副作用較小。  
     * 血脂也得到較好的控制，如 desogestrel 可減低 LDL 達 15%，而 HDL 也會增加。  
   * 第四代：Cyproterone acetate（CPA）或 Drospirenone（DRSP）。  
-    * 抗雄性化作用（Anti-androgenic）：痤瘡、皮膚出油、毛孔阻塞的狀況減少。  
-    （故部分藥品亦被核准用於同時有避孕需求的青春痘治療用途）  
-    （CPA 擁有最強的抗痤瘡能力）  
+    * 抗雄性化作用（Anti-androgenic）：痤瘡、皮膚出油、毛孔阻塞的狀況減少，故部分藥品亦被核准用於同時有避孕需求的青春痘治療用途。  
+    （CPA 擁有最強的抗痤瘡能力。）  
     * 抗礦物皮質酮作用（Anti-mineralocorticoid）：改善水腫現象。  
-    （DRSP 從 Spironolactone 的結構修飾而來，可抗水腫）  
+    （DRSP 從 Spironolactone 的結構修飾而來，可抗水腫。）  
 
 
 
 ## 表格比較  
-| 黃體素代數<br>雌激素劑量 | １st<br>Norethindrone | 2nd<br>Levonorgestrel (LNG) | 3rd<br>Desogestrel (DSG)<br>Gestodene | 4th<br>Drospirenone (DRSP)<br>Cyproterone (CPA) |
+| 黃體素代數<br><br>雌激素劑量 | １st<br>Norethindrone | 2nd<br>Levonorgestrel (LNG) | 3rd<br>Desogestrel (DSG)<br>Gestodene | 4th<br>Drospirenone (DRSP)<br>Cyproterone (CPA) |
 |---|---|---|---|---|
-| 0.02 | 美婷娜<br>Norethindrone 10 + EE 0.02![](metina.webp) | - | 美適儂 21+7<br>DSG 0.15 + EE 0.02![](mercilon.webp)<br>玫麗安 21<br>Gestodene 0.075 + EE 0.02![](meliane.webp)<br>愛月定錠 21<br>Gestodene 0.075 + EE 0.02![](lindynette20.webp) | 悅姿 24+4<br>DRSP 3 + EE 0.02![](yaz.webp)<br>愛薇 24+4<br>DRSP 3 + EE 0.02![](gveza002.webp) |
-| 0.03 | - | 欣無妊 21<br>LNG 0.15 + EE 0.03![](microgynon.webp)<br>家計 2 號 21+7<br>LNG 0.15 + EE 0.03![](winstop30.webp) | 祈麗安 21<br>Gestodene 0.075 + EE 0.03![](gynera.webp) | 悅己 21<br>DRSP 3![](yasmin.webp) + EE 0.03<br>愛己 21<br>DRSP 3 + EE 0.03![](gveza003.webp) |
-| 0.035 | - | - | - | 黛麗安 21<br>CPA 2 + EE 0.035![](diane.webp)<br>愛斯麗安 21<br>CPA 2 + EE 0.035![](esdian.webp) |
-| 0.04 | - | 家計 1 號（三段式）<br>LNG 0.05 + EE 0.03<br>LNG 0.075 + EE 0.04<br>LNG 0.125 + EE 0.03![](winstopt28.webp) | - | - |
-| 0.05 | - | 家計 4 號 21+7（已停用）<br>LNG 0.125 + EE 0.05<br>家計 3 號 21+7（已停用）<br>LNG 0.25 + EE 0.05![](no3.webp) | - | - |
+| 0.02 | **美婷娜**<br>Norethindrone 10 + EE 0.02![](metina.webp) | - | **美適儂** 21+7<br>DSG 0.15 + EE 0.02![](mercilon.webp)<br>**玫麗安** 21<br>Gestodene 0.075 + EE 0.02![](meliane.webp)<br>**愛月定錠** 21<br>Gestodene 0.075 + EE 0.02![](lindynette20.webp) | **悅姿** 24+4<br>DRSP 3 + EE 0.02![](yaz.webp)<br>**愛薇** 24+4<br>DRSP 3 + EE 0.02![](gveza002.webp) |
+| 0.03 | - |**欣無妊** 21<br>LNG 0.15 + EE 0.03![](microgynon.webp)<br>**家計 2 號** 21+7<br>LNG 0.15 + EE 0.03![](winstop30.webp) | **祈麗安** 21<br>Gestodene 0.075 + EE 0.03![](gynera.webp) | **悅己** 21<br>DRSP 3 + EE 0.03![](yasmin.webp)<br>**愛己** 21<br>DRSP 3 + EE 0.03![](gveza003.webp) |
+| 0.035 | - | - | - | **黛麗安** 21<br>CPA 2 + EE 0.035![](diane.webp)<br>**愛斯麗安** 21<br>CPA 2 + EE 0.035![](esdian.webp) |
+| 0.04 | - | **家計 1 號**（三段式）<br>LNG 0.05 + EE 0.03<br>LNG 0.075 + EE 0.04<br>LNG 0.125 + EE 0.03![](winstopt28.webp) | - | - |
+| 0.05 | - | **家計 4 號** 21+7（已停用）<br>LNG 0.125 + EE 0.05<br>**家計 3 號** 21+7（已停用）<br>LNG 0.25 + EE 0.05![](no3.webp) | - | - |
 
 ### Alyssa 愛莉莎膜衣錠  
 ![](alyssa.webp)
 * 愛莉莎 24 + 4  
 * DRSP 3 + E4 15  
-* 含新型的雌激素 Estetrol (Estetrol monohydrate，E4)，較不影響凝血功能（血栓風險降低）、減少對乳房刺激（乳癌風險較低），且其代謝方式與大部分藥品不同（不經由CYP3A4代謝），藥物食物交互作用少。  
+* 含新型的雌激素 Estetrol (Estetrol monohydrate，E4)，較不影響凝血功能（血栓風險降低）、減少對乳房刺激（乳癌風險較低），且其代謝方式與大部分藥品不同（不經由 CYP3A4 代謝），藥物食物交互作用少。  
 Drospirenone（DRSP）仍然會影響血液凝集，具有血栓風險，同時也會經由 CYP3A4 代謝，仍然要注意藥物食物交互作用。  
 
 ## 副作用  
@@ -91,8 +90,8 @@ Drospirenone（DRSP）仍然會影響血液凝集，具有血栓風險，同時�
 * 「首次」服用需持續一週以上，待體內黃體素達到穩定濃度後才具有避孕效果，故建議開始服用第一週需配合保險套做雙重避孕，並固定每天同一時間服用，好處是建立服藥習慣，同時也讓體內的賀爾蒙濃度維持恆定。
 
 ## 事前及事後差別？
-* 事前避孕藥：透過長期服用以預防受孕，經長時間且週期性服用低劑量的賀爾蒙（雌性素與黃體素），以抑制腦下垂體分泌黃體成長激素(LH)與濾泡刺激素(FSH)，進而抑制排卵、干擾內膜生長(胚胎不易著床)、增加子宮頸黏液(精蟲不易游動)，來達到避孕的效果。
-* 事後避孕藥：為「行房事後」一次性服用的避孕藥，原理為單次服用高劑量黃體素，然後突然停止，子宮內膜就會以為黃體衰竭而造成內膜剝落(月經來潮)，以阻止胚胎著床發育，來達到避孕的效果。
+* 事前避孕藥：透過長期服用以預防受孕，經長時間且週期性服用低劑量的賀爾蒙（雌性素與黃體素），以抑制腦下垂體分泌黃體成長激素（LH）與濾泡刺激素（FSH），進而抑制排卵、干擾內膜生長（胚胎不易著床）、增加子宮頸黏液（精蟲不易游動），來達到避孕的效果。
+* 事後避孕藥：為「行房事後」一次性服用的避孕藥，原理為單次服用高劑量黃體素，然後突然停止，子宮內膜就會以為黃體衰竭而造成內膜剝落（月經來潮），以阻止胚胎著床發育，來達到避孕的效果。
 
 ## Reference
 [未成年懷孕求助網站](https://257085.sfaa.gov.tw/knowledge_detail.php?Key=27)  
