@@ -118,7 +118,12 @@ cover:
     * Sevina 詩維娜（12 錠藍色錠劑：Estradiol 2mg、10 錠白色錠劑：Estradiol 2mg + Norethisterone 1mg、6 錠橘色錠劑：Estradiol 1mg）  
   * 組織選擇性雌激素活性調節劑（STEAR）：  
     * Livial 利飛亞 2.5 mg（Tibolone）  
-* 禁忌症：罹患乳癌、子宮內膜癌、嚴重肝功能障礙、三酸甘油脂過高、靜脈栓塞，不明原因之子宮出血、子宮內膜異位症、子宮肌瘤的女性患者。
+* 禁忌症：罹患乳癌、子宮內膜癌、嚴重肝功能障礙、三酸甘油脂過高、靜脈栓塞，不明原因之子宮出血、子宮內膜異位症、子宮肌瘤的女性患者。  
+* 非藥物類：  
+  * [Cimidona 喜婦寧錠（Native Black Cohosh Dry Extract 北美升麻根莖部之乾燥萃取物 6.5mg）](https://www.cimidona.com.tw)  
+  * DHEA 脫氫異雄固酮（Dehydroepiandrosterone），人體荷爾蒙之前驅物  
+    * 具有轉化成睪固酮（Testosterone）和雌二醇（Estradiol）以及雌酮（Estrone）的能力，因此其效用常被認為與這些荷爾蒙密切相關。  
+    * 延伸閱讀：[微笑藥師](https://www.smilerx.com.tw/what-is-dhea-detailed-explanation-of-benefits/)
 
 --- 
 
